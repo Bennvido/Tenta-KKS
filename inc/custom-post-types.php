@@ -63,7 +63,7 @@ $args = [
     "supports" => [ "title", "editor", "thumbnail", "custom-fields" ],
 ];
 
-register_post_type( "cat", $args );
+register_post_type( "cats", $args );
 }
 
 add_action( 'init', 'cptui_register_my_cpts_cats' );

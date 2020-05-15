@@ -20,9 +20,9 @@ get_header();
         <!-- Yay, we have posts  -->
         <?php while (have_posts()) : the_post(); ?>
 		
-            <!-- Accordion of FAQ's -->
+            <!-- Content of Cats -->
             <?php get_template_part('loop-templates/content', 'cats'); ?>
-            <!-- End of Accordion -->
+            <!-- End of Content -->
 		
         <?php endwhile; ?>
     <?php else : ?>
