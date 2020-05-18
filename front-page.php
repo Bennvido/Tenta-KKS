@@ -19,8 +19,9 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 ?>
 
-<?php get_template_part('global-templates/hero'); ?>
+<?php get_template_part('global-templates/hero-frontpage'); ?>
 
+<?php get_template_part('global-templates/hero'); ?>
 
 <div class="wrapper" id="page-wrapper">
 	
@@ -30,7 +31,8 @@ $container = get_theme_mod( 'understrap_container_type' );
 		<h1>Detta är frontpage</h1>
 			<main class="site-main" id="main">
 				
-
+			
+	
 			</main><!-- #main -->
 
 
