@@ -12,7 +12,7 @@
         <h5 class="card-title"><?php the_field('cat_name') ?></h5>
         <p class="card-text"><strong><?php _e('Birth date:')?></strong> <?php the_field('cat_age') ?></p>
         <p class="card-text"><strong>Color:</strong> <?php the_field('cat_color') ?></p>
-        <p class="card-text"><strong>Weight:</strong> <?php the_field('cat_weight') ?></p>
+        <p class="card-text"><strong>Weight:</strong> <?php the_field('cat_weight') ?>kg</p>
         <p class="card-text"><strong>Gender:</strong> <?php the_field('cat_gender') ?></p>
         <p class="card-text"><strong>Description:</strong> <?php the_field('cat_description') ?></p>
         <p class="card-text"><small class="text-muted"> <?php printf( __( 'Updated at: %1$s at  %2$s', 'textdomain' ),
