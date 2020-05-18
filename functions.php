@@ -18,7 +18,7 @@ $understrap_includes = array(
 	'/hooks.php',                           // Custom hooks.
 	'/custom-post-types.php',				// Load Custom Post Types.
 	'/acf.php',								// Load ACF Plugin
-	'/custom-hero-fields.php',					// Load Custom Fields.
+	'/custom-hero-fields.php',				// Load Hero Fields to front page.
 	'/extras.php',                          // Custom functions that act independently of the theme templates.
 	'/customizer.php',                      // Customizer additions.
 	'/custom-comments.php',                 // Custom Comments file.
