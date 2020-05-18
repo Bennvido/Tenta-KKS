@@ -8,7 +8,7 @@ function cptui_register_my_cpts_cats() {
 $labels = [
     "name" => __( "cats", "understrap" ),
     "singular_name" => __( "cat", "understrap" ),
-    "menu_name" => __( "Add new cats", "understrap" ),
+    "menu_name" => __( "Add new cat", "understrap" ),
     "all_items" => __( "All cats", "understrap" ),
     "add_new" => __( "Add new", "understrap" ),
     "add_new_item" => __( "Add new cat", "understrap" ),
@@ -60,7 +60,7 @@ $args = [
     "hierarchical" => true,
     "rewrite" => [ "slug" => "katter", "with_front" => true ],
     "query_var" => true,
-    "supports" => [ "title", "editor", "thumbnail", "custom-fields" ],
+    "supports" => [ "title", "custom-fields" ],
 ];
 
 register_post_type( "cats", $args );
