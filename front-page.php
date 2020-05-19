@@ -1,4 +1,5 @@
 <?php
+
 /**
  * The template for displaying front page
  *
@@ -11,32 +12,71 @@
  */
 
 // Exit if accessed directly.
-defined( 'ABSPATH' ) || exit;
+defined('ABSPATH') || exit;
 
 get_header();
 
-$container = get_theme_mod( 'understrap_container_type' );
+$container = get_theme_mod('understrap_container_type');
 
 ?>
-
+<?php
+$cats = new WP_Query([
+	'post_type'     =>      'cats',
+	'posts_per_page'    =>  3,
+	'meta_query'     => array(
+		array(
+			'key'   => 'cat_adopted',
+			'value' => 'Yes',
+			'orderby'       =>      'date',
+			'order'     =>  'DSC'
+		)
+	)
+]);
+?>
+<?php
+$catsadopted = new WP_Query([
+	'post_type'     =>      'cats',
+	'posts_per_page'    =>  3,
+	'meta_query'     => array(
+		array(
+			'key'   => 'cat_adopted',
+			'value' => 'No',
+			'orderby' => 'date',
+			'order' => 'DSC'
+		)
+	)
+]);
+?>
 <?php get_template_part('global-templates/hero-frontpage'); ?>
 
 <?php get_template_part('global-templates/hero'); ?>
 
 <div class="wrapper" id="page-wrapper">
-	
-	<div class="<?php echo esc_attr( $container ); ?>" id="content" tabindex="-1">
 
+	<div class="<?php echo esc_attr($container); ?>" id="content" tabindex="-1">
+
+		<h1 class="text-center">Senaste inkomna katterna</h1>
 		<div class="row">
-		<h1>Detta är frontpage</h1>
-			<main class="site-main" id="main">
-				
 			
-	
-			</main><!-- #main -->
+
+				<?php while ($cats->have_posts()) : $cats->the_post(); ?>
+
+					<?php get_template_part('loop-templates/content', 'cats'); ?>
+
+				<?php endwhile; ?>
+
+			
 
 
 		</div><!-- .row -->
+		<h1 class="text-center">Senaste adopterade katterna</h1>
+		<div class="row">
+			<?php while ($catsadopted->have_posts()) : $catsadopted->the_post(); ?>
+
+				<?php get_template_part('loop-templates/content', 'cats'); ?>
+
+			<?php endwhile; ?>
+		</div>
 
 	</div><!-- #content -->
 
