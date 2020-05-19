@@ -16,6 +16,7 @@ $understrap_includes = array(
 	'/template-tags.php',                   // Custom template tags for this theme.
 	'/pagination.php',                      // Custom pagination for this theme.
 	'/hooks.php',                           // Custom hooks.
+	'/load-more-posts.php',					// For load more posts.
 	'/custom-post-types.php',				// Load Custom Post Types.
 	'/acf.php',								// Load ACF Plugin.
 	'/custom-hero-fields.php',				// Load Hero Fields to front page.
