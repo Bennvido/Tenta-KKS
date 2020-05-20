@@ -26,9 +26,9 @@ $cats = new WP_Query([
 	'meta_query'     => array(
 		array(
 			'key'   => 'cat_adopted',
-			'value' => 'Yes',
-			'orderby'       =>      'date',
-			'order'     =>  'DSC'
+			'value' => 'No',
+			'orderby' => 'date',
+			'order' => 'DSC'
 		)
 	)
 ]);
@@ -40,7 +40,7 @@ $catsadopted = new WP_Query([
 	'meta_query'     => array(
 		array(
 			'key'   => 'cat_adopted',
-			'value' => 'No',
+			'value' => 'Yes',
 			'orderby' => 'date',
 			'order' => 'DSC'
 		)
@@ -55,7 +55,7 @@ $catsadopted = new WP_Query([
 
 	<div class="<?php echo esc_attr($container); ?>" id="content" tabindex="-1">
 
-		<h1 class="text-center">Senaste inkomna katterna</h1>
+		<h1 class="text-center">Latest arrived cats</h1>
 		<div class="row">
 			
 
@@ -69,7 +69,8 @@ $catsadopted = new WP_Query([
 
 
 		</div><!-- .row -->
-		<h1 class="text-center">Senaste adopterade katterna</h1>
+		<hr>
+		<h1 class="text-center">Latest adopted cats</h1>
 		<div class="row">
 			<?php while ($catsadopted->have_posts()) : $catsadopted->the_post(); ?>
 
