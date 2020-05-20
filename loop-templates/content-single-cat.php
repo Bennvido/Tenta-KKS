@@ -14,6 +14,7 @@
         <p class="card-text"><strong>Color:</strong> <?php the_field('cat_color') ?></p>
         <p class="card-text"><strong>Weight:</strong> <?php the_field('cat_weight') ?>kg</p>
         <p class="card-text"><strong>Gender:</strong> <?php echo get_the_term_list( $post->ID, 'gender') ?></p>
+        <p class="card-text"><strong>Located at:</strong> <?php echo get_the_term_list( $post->ID, 'city') ?></p>
         <p class="card-text"><strong>Description:</strong> <?php the_field('cat_description') ?></p>
         <p class="card-text"><small class="text-muted"> <?php printf( __( 'Updated at: %1$s at  %2$s', 'textdomain' ),
     get_the_modified_date( 'F j, Y' ),
