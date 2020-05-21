@@ -54,18 +54,20 @@ $catsadopted = new WP_Query([
 <div class="wrapper" id="page-wrapper">
 
 	<div class="<?php echo esc_attr($container); ?>" id="content" tabindex="-1">
+		<h1 class="text-center">Three steps to adopt a cat</h1>
+		<?php get_template_part('global-templates/usp-faq'); ?>
 
 		<h1 class="text-center">Latest arrived cats</h1>
 		<div class="row">
-			
 
-				<?php while ($cats->have_posts()) : $cats->the_post(); ?>
 
-					<?php get_template_part('loop-templates/content', 'cats'); ?>
+			<?php while ($cats->have_posts()) : $cats->the_post(); ?>
 
-				<?php endwhile; ?>
+				<?php get_template_part('loop-templates/content', 'cats'); ?>
 
-			
+			<?php endwhile; ?>
+
+
 
 
 		</div><!-- .row -->
