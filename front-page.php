@@ -54,9 +54,10 @@ $catsadopted = new WP_Query([
 <div class="wrapper" id="page-wrapper">
 
 	<div class="<?php echo esc_attr($container); ?>" id="content" tabindex="-1">
+		<?php get_template_part('global-templates/about-us'); ?>
+		<hr>
 		<h1 class="text-center">Three steps to adopt a cat</h1>
 		<?php get_template_part('global-templates/usp-faq'); ?>
-
 		<h1 class="text-center">Latest arrived cats</h1>
 		<div class="row">
 
