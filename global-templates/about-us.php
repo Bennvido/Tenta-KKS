@@ -5,7 +5,7 @@ defined('ABSPATH') || exit;
 $aboutus = new WP_Query([
     'post_type' => 'about_us',
     'posts_per_page' => 1,
-    'orderby' => 'post_title',
+    'orderby' => 'publish_date',
     'order' => 'ASC',
 ]);
 

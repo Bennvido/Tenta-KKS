@@ -5,7 +5,7 @@ defined('ABSPATH') || exit;
 $faqs = new WP_Query([
     'post_type' => 'usp_faq',
     'posts_per_page' => 3,
-    'orderby' => 'post_title',
+    'orderby' => 'publish_date',
     'order' => 'ASC',
 ]);
 
