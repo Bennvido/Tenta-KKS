@@ -2,7 +2,7 @@
     $image = get_field('cat_image');
  
 ?>
-<div class="card-body col-4">
+<div class="card-body col-12 col-md-4 col-lg-4">
     <a id="cats-link-<?php the_ID(); ?>" href="<?php the_permalink(); ?>"><h1 class="text-center"><?php the_field('cat_name'); ?></h1></a>
     <img  src="<?php echo $image['url']; ?>" alt="">
     
