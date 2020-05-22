@@ -7,7 +7,7 @@
 <div class="card mb-3 col-lg-12 mt-5">
   <div class="row no-gutters">
     <div class="col-lg-8 align-self-center">
-      <img src="<?php echo $image['url']; ?>" class="card-img" alt="...">
+      <img style="max-height: 600px; width:auto;" src="<?php echo $image['url']; ?>" class="card-img" alt="...">
     </div>
     <div class="col-lg-4">
       <div class="card-body">
