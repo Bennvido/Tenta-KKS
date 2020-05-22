@@ -1,3 +1,6 @@
+<?php
+    defined('ABSPATH') || exit;
+?>
 <div class="card-body col-8 m-auto">
     <a id="cats-link-<?php the_ID(); ?>" href="<?php the_permalink(); ?>"><h1 class="text-center"><?php the_field('cat_name'); ?></h1></a>
     <h1 class="text-center"><?php the_title(); ?></h1>

@@ -2,6 +2,7 @@
 /*
 * Hero for the front page
 */
+defined('ABSPATH') || exit;
 ?>
 
 <?php
