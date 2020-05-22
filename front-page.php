@@ -58,6 +58,7 @@ $catsadopted = new WP_Query([
 		<hr>
 		<h1 class="text-center">Three steps to adopt a cat</h1>
 		<?php get_template_part('global-templates/usp-faq'); ?>
+		<hr>
 		<h1 class="text-center">Latest arrived cats</h1>
 		<div class="row">
 
@@ -68,7 +69,7 @@ $catsadopted = new WP_Query([
 
 			<?php endwhile; ?>
 		</div><!-- .row -->
-			<hr>
+		<hr>
 		<h1 class="text-center">Latest adopted cats</h1>
 		<div class="row">
 			<?php while ($catsadopted->have_posts()) : $catsadopted->the_post(); ?>
