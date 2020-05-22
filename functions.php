@@ -17,9 +17,14 @@ $understrap_includes = array(
 	'/pagination.php',                      // Custom pagination for this theme.
 	'/hooks.php',                           // Custom hooks.
 	'/load-more-posts.php',					// For load more posts.
-	'/custom-post-types.php',				// Load Custom Post Types.
+	'/custom-post-cats.php',				// Load Custom Post Types Cats.
+	'/custom-post-faqs.php',				// Load Custom Post Types Faqs.
+	'/custom-post-about.php',				// Load Custom Post Types About us.
+	'/custom-taxonomy-genders.php',			// Load Custom Taxonomy Genders.
+	'/custom-taxonomy-citys.php',			// Load Custom Taxonomy Citys.
 	'/acf.php',								// Load ACF Plugin.
-	'/custom-hero-fields.php',				// Load Hero Fields to front page.
+	'/custom-fields-hero.php',				// Load Hero Fields.
+	'/custom-fields-cats.php',				// Load Cats Metadata Fields.
 	'/extras.php',                          // Custom functions that act independently of the theme templates.
 	'/customizer.php',                      // Customizer additions.
 	'/custom-comments.php',                 // Custom Comments file.

@@ -1,4 +1,5 @@
 <?php
+defined( 'ABSPATH' ) || exit;
 // Define path and URL to the ACF plugin.
 define('MY_ACF_PATH', get_stylesheet_directory() . '/inc/acf/');
 define('MY_ACF_URL', get_stylesheet_directory_uri() . '/inc/acf/');
@@ -14,7 +15,7 @@ function my_acf_settings_url( $url ) {
 }
 
 // (Optional) Hide the ACF admin menu item.
-// add_filter('acf/settings/show_admin', 'my_acf_settings_show_admin');
-// function my_acf_settings_show_admin( $show_admin ) {
-//     return false;
-// }
+add_filter('acf/settings/show_admin', 'my_acf_settings_show_admin');
+function my_acf_settings_show_admin( $show_admin ) {
+    return false;
+}

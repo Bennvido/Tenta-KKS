@@ -1,6 +1,7 @@
 <?php
 function cptui_register_my_cpts_cats() {
 
+defined( 'ABSPATH' ) || exit;
 /**
  * Post Type: cats.
  */
