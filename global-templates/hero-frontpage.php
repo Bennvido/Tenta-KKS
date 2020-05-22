@@ -12,7 +12,7 @@ $link = get_field('hero_link');
 ?>
 <section id="front-page-hero" style="background-color: <?php echo $bg_color; ?> ">
     <div class="container">
-        <?php if (get_field('hero_link')) : ?>
+        <?php if ( $link ) : ?>
             <a href="<?php echo $link['url']; ?>">
         <?php endif; ?>
                 <img src="<?php echo $image['url']; ?>" alt="">
