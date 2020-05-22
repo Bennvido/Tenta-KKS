@@ -67,12 +67,8 @@ $catsadopted = new WP_Query([
 				<?php get_template_part('loop-templates/content', 'cats'); ?>
 
 			<?php endwhile; ?>
-
-
-
-
 		</div><!-- .row -->
-		<hr>
+			<hr>
 		<h1 class="text-center">Latest adopted cats</h1>
 		<div class="row">
 			<?php while ($catsadopted->have_posts()) : $catsadopted->the_post(); ?>
