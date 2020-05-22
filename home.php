@@ -38,7 +38,6 @@ $blog_posts = new WP_Query($args);
 
 <div class="wrapper" id="index-wrapper">
 	<div class="<?php echo esc_attr($container); ?>" id="content" tabindex="-1">
-		<h1>detta är posts sidan</h1>
 
 		<div class="row">
 
@@ -65,7 +64,7 @@ $blog_posts = new WP_Query($args);
 				}
 				?>
 			</main><!-- #main -->
-			<button class="loadmore" type="submit">Load More...</button>
+			<div class="loadmore" type="submit">Load More...</div>
 
 		</div><!-- .row -->
 
