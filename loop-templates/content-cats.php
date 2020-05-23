@@ -1,6 +1,7 @@
 <?php
 $image = get_field('cat_image');
 
+defined('ABSPATH') || exit;
 ?>
 <div class="card-body col-12 col-md-4 col-lg-4 text-center">
     <a id="cats-link-<?php the_ID(); ?>" href="<?php the_permalink(); ?>">
