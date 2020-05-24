@@ -19,7 +19,7 @@ $link = get_field('hero_link');
         <?php if ( $link ) : ?>
             <a href="<?php echo $link['url']; ?>">
         <?php endif; ?>
-                <img style="max-height: 400px;"src="<?php echo $image['url']; ?>" alt="">
+                <img id="hero-img" src="<?php echo $image['url']; ?>" alt="">
             </a>
     </div>
 </section>

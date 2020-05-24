@@ -1,0 +1,23 @@
+#small-cats-img{
+    height: 20vh; 
+    width: 100%; 
+    object-fit: cover;
+}
+a{
+    color: #3388ff;
+}
+.card{
+    padding: 5px;
+    box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+h3{
+    color: black;
+}
+.cat-name-link:hover{
+    text-decoration-color: black;
+}
+#single-cat-img{
+    max-height: 600px; 
+    width: auto;
+}
+
