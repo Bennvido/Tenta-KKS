@@ -64,7 +64,7 @@ $blog_posts = new WP_Query($args);
 				}
 				?>
 			</main><!-- #main -->
-			<div class="loadmore" type="submit">Load More...</div>
+			<div class="loadmore" type="submit"><?php _e('Load More...', 'kks') ?></div>
 
 		</div><!-- .row -->
 

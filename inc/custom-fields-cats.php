@@ -9,10 +9,10 @@ if( function_exists('acf_add_local_field_group') ):
         'fields' => array(
             array(
                 'key' => 'field_5ec2a719f89e9',
-                'label' => 'Name',
+                'label' => __( 'Name', 'kks' ),
                 'name' => 'cat_name',
                 'type' => 'text',
-                'instructions' => 'Name of the cat.',
+                'instructions' => __( 'Name of the cat.', 'kks' ),
                 'required' => 1,
                 'conditional_logic' => 0,
                 'wrapper' => array(
@@ -28,10 +28,10 @@ if( function_exists('acf_add_local_field_group') ):
             ),
             array(
                 'key' => 'field_5ec2a746f89ea',
-                'label' => 'Age',
+                'label' => __( 'Age', 'kks' ),
                 'name' => 'cat_age',
                 'type' => 'date_picker',
-                'instructions' => 'Birthdate of the cat.',
+                'instructions' => __('Birthdate of the cat.', 'kks'),
                 'required' => 1,
                 'conditional_logic' => 0,
                 'wrapper' => array(
@@ -45,10 +45,10 @@ if( function_exists('acf_add_local_field_group') ):
             ),
             array(
                 'key' => 'field_5ec2a7b7f89eb',
-                'label' => 'Color',
+                'label' =>  __( 'Color', 'kks' ),
                 'name' => 'cat_color',
                 'type' => 'text',
-                'instructions' => 'Color of the cat.',
+                'instructions' =>  __( 'Color of the cat.', 'kks' ),
                 'required' => 1,
                 'conditional_logic' => 0,
                 'wrapper' => array(
@@ -64,10 +64,10 @@ if( function_exists('acf_add_local_field_group') ):
             ),
             array(
                 'key' => 'field_5ec2a7d3f89ec',
-                'label' => 'Weight',
+                'label' =>  __( 'Weight', 'kks' ),
                 'name' => 'cat_weight',
                 'type' => 'number',
-                'instructions' => 'Cats weight in kg.',
+                'instructions' =>  __( 'Cats weight in kg.', 'kks' ),
                 'required' => 1,
                 'conditional_logic' => 0,
                 'wrapper' => array(
@@ -85,11 +85,11 @@ if( function_exists('acf_add_local_field_group') ):
             ),
             array(
                 'key' => 'field_5ec429e7fac52',
-                'label' => 'Adopted',
+                'label' =>  __( 'Adopted', 'kks' ),
                 'name' => 'cat_adopted',
                 'type' => 'select',
-                'instructions' => 'Is the cat adopted? Yes/No
-    If yes pick the date under here.',
+                'instructions' => __('Is the cat adopted? Yes/No
+    If yes pick the date under here.', 'kks'),
                 'required' => 1,
                 'conditional_logic' => 0,
                 'wrapper' => array(
@@ -98,7 +98,7 @@ if( function_exists('acf_add_local_field_group') ):
                     'id' => '',
                 ),
                 'choices' => array(
-                    'Yes' => 'Yes',
+                    'Yes' => __( 'Yes', 'kks' ),
                     'No' => 'No',
                 ),
                 'default_value' => 'No',
@@ -111,10 +111,10 @@ if( function_exists('acf_add_local_field_group') ):
             ),
             array(
                 'key' => 'field_5ec2a817f89ed',
-                'label' => 'Date adopted',
+                'label' =>  __( 'Date adopted', 'kks' ),
                 'name' => 'cat_date_adopted',
                 'type' => 'date_picker',
-                'instructions' => 'Pick the date when the cat was adopted.',
+                'instructions' => __('Pick the date when the cat was adopted.', 'kks'),
                 'required' => 1,
                 'conditional_logic' => array(
                     array(
@@ -136,10 +136,10 @@ if( function_exists('acf_add_local_field_group') ):
             ),
             array(
                 'key' => 'field_5ec2a86bf89ee',
-                'label' => 'Description',
+                'label' => __('Description', 'kks'),
                 'name' => 'cat_description',
                 'type' => 'textarea',
-                'instructions' => 'Something to share about the cat.',
+                'instructions' => __('Something to share about the cat.', 'kks'),
                 'required' => 1,
                 'conditional_logic' => 0,
                 'wrapper' => array(
@@ -155,10 +155,10 @@ if( function_exists('acf_add_local_field_group') ):
             ),
             array(
                 'key' => 'field_5ec2a8a7f89ef',
-                'label' => 'Image',
+                'label' =>  __( 'Image', 'kks' ),
                 'name' => 'cat_image',
                 'type' => 'image',
-                'instructions' => 'A photo on the cat.',
+                'instructions' => __('A photo on the cat.', 'kks'),
                 'required' => 1,
                 'conditional_logic' => 0,
                 'wrapper' => array(

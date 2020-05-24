@@ -1,69 +1,109 @@
 # Blank WordPress Pot
 # Copyright 2014 ...
 # This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Blank WordPress Pot v1.0.0\n"
-"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
-"POT-Creation-Date: 2020-05-24 23:44+0200\n"
+"Project-Id-Version: "
+"Blank WordPress Pot "
+"v1.0.0\n"
+"POT-Creation-Date: "
+"2020-05-24 22:18+0200\n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: Your Team <translations@example.com>\n"
-"Language: sv_SE\n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: Your Team "
+"<translations@example."
+"com>\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
-"X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
-"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
-"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
 "X-Poedit-Basepath: ..\n"
-"X-Generator: Poedit 2.3.1\n"
-"X-Poedit-SearchPath-0: .\n"
-"X-Poedit-SearchPath-1: .\n"
+"Language: en_US\n"
+"X-Generator: Poedit "
+"2.3.1\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+"X-Poedit-"
+"SearchPath-1: .\n"
 
-#: 404.php:30 node_modules/undescores-for-npm/404.php:17
-msgid "Oops! That page can&rsquo;t be found."
-msgstr "Ojdå! Sidan kan inte hittas."
-
-#: 404.php:36 node_modules/undescores-for-npm/404.php:21
+#: 404.php:30
+#: node_modules/undescores-for-npm/404.php:17
 msgid ""
-"It looks like nothing was found at this location. Maybe try one of the links "
-"below or a search?"
+"Oops! That page "
+"can&rsquo;t be found."
 msgstr ""
-"Det verkar som att det inte finns någonting här. Du kan testa en av länkarna "
-"nedan eller att göra en sökning."
 
-#: 404.php:46 node_modules/undescores-for-npm/404.php:33
-msgid "Most Used Categories"
-msgstr "Mest använda kategorier"
+#: 404.php:36
+#: node_modules/undescores-for-npm/404.php:21
+msgid ""
+"It looks like nothing "
+"was found at this "
+"location. Maybe try one "
+"of the links below or a "
+"search?"
+msgstr ""
 
-#: 404.php:69 node_modules/undescores-for-npm/404.php:51
+#: 404.php:46
+#: node_modules/undescores-for-npm/404.php:33
+msgid ""
+"Most Used Categories"
+msgstr ""
+
+#: 404.php:69
+#: node_modules/undescores-for-npm/404.php:51
 #, php-format
-msgid "Try looking in the monthly archives. %1$s"
-msgstr "Försök att kolla i arkiven. %1$s"
+msgid ""
+"Try looking in the "
+"monthly archives. %1$s"
+msgstr ""
 
 #: author.php:38
 msgid "About:"
-msgstr "Om:"
+msgstr ""
 
-#: author.php:49 inc/acf/includes/admin/admin-field-groups.php:638
+#: author.php:49
+#: inc/acf/includes/admin/admin-field-groups.php:638
 msgid "Website"
-msgstr "Webbplats"
+msgstr ""
 
 #: author.php:56
 msgid "Profile"
-msgstr "Profil"
+msgstr ""
 
 #: author.php:62
 msgid "Posts by"
-msgstr "Inlägg av"
+msgstr ""
 
 #: author.php:75
 msgid "Permanent Link:"
-msgstr "Permalänk:"
+msgstr ""
 
 #: author.php:79
 msgid "in"
@@ -72,48 +112,56 @@ msgstr ""
 #: comments.php:37
 #, php-format
 msgctxt "comments title"
-msgid "One thought on &ldquo;%s&rdquo;"
+msgid ""
+"One thought on &ldquo;"
+"%s&rdquo;"
 msgstr ""
 
 #: comments.php:45
 #, php-format
 msgctxt "comments title"
-msgid "%1$s thought on &ldquo;%2$s&rdquo;"
-msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgid ""
+"%1$s thought on &ldquo;"
+"%2$s&rdquo;"
+msgid_plural ""
+"%1$s thoughts on &ldquo;"
+"%2$s&rdquo;"
 msgstr[0] ""
 msgstr[1] ""
 
-#: comments.php:64 comments.php:99
+#: comments.php:64
+#: comments.php:99
 #: node_modules/undescores-for-npm/comments.php:40
 #: node_modules/undescores-for-npm/comments.php:61
 msgid "Comment navigation"
 msgstr ""
 
-#: comments.php:68 comments.php:103
-msgid "&larr; Older Comments"
+#: comments.php:68
+#: comments.php:103
+msgid ""
+"&larr; Older Comments"
 msgstr ""
 
-#: comments.php:74 comments.php:109
-msgid "Newer Comments &rarr;"
+#: comments.php:74
+#: comments.php:109
+msgid ""
+"Newer Comments &rarr;"
 msgstr ""
-
-#: footer.php:30
-msgid "All rights reserved by"
-msgstr "Copyright"
 
 #: front-page.php:59
 msgid "How do adopt a cat"
-msgstr "Hur man adopterar en katt"
+msgstr ""
 
 #: front-page.php:62
 msgid "Latest arrived cats"
-msgstr "Senast inkomna katter"
+msgstr ""
 
 #: front-page.php:71
 msgid "Latest adopted cats"
-msgstr "Senast adopterade katter"
+msgstr ""
 
-#: header.php:31 node_modules/undescores-for-npm/header.php:24
+#: header.php:31
+#: node_modules/undescores-for-npm/header.php:24
 msgid "Skip to content"
 msgstr ""
 
@@ -127,13 +175,15 @@ msgstr ""
 
 #: home.php:67
 msgid "Load More..."
-msgstr "Läs in mer..."
-
-#: inc/acf/acf.php:68
-msgid "Advanced Custom Fields"
 msgstr ""
 
-#: inc/acf/acf.php:342 inc/acf/includes/admin/admin.php:52
+#: inc/acf/acf.php:68
+msgid ""
+"Advanced Custom Fields"
+msgstr ""
+
+#: inc/acf/acf.php:342
+#: inc/acf/includes/admin/admin.php:52
 msgid "Field Groups"
 msgstr ""
 
@@ -141,7 +191,9 @@ msgstr ""
 msgid "Field Group"
 msgstr ""
 
-#: inc/acf/acf.php:344 inc/acf/acf.php:376 inc/acf/includes/admin/admin.php:53
+#: inc/acf/acf.php:344
+#: inc/acf/acf.php:376
+#: inc/acf/includes/admin/admin.php:53
 #: inc/acf/pro/fields/class-acf-field-flexible-content.php:558
 msgid "Add New"
 msgstr ""
@@ -167,14 +219,18 @@ msgid "Search Field Groups"
 msgstr ""
 
 #: inc/acf/acf.php:350
-msgid "No Field Groups found"
+msgid ""
+"No Field Groups found"
 msgstr ""
 
 #: inc/acf/acf.php:351
-msgid "No Field Groups found in Trash"
+msgid ""
+"No Field Groups found in "
+"Trash"
 msgstr ""
 
-#: inc/acf/acf.php:374 inc/acf/includes/admin/admin-field-group.php:220
+#: inc/acf/acf.php:374
+#: inc/acf/includes/admin/admin-field-group.php:220
 #: inc/acf/includes/admin/admin-field-groups.php:530
 #: inc/acf/pro/fields/class-acf-field-clone.php:811
 msgid "Fields"
@@ -192,7 +248,8 @@ msgstr ""
 msgid "Edit Field"
 msgstr ""
 
-#: inc/acf/acf.php:379 inc/acf/includes/admin/views/field-group-fields.php:41
+#: inc/acf/acf.php:379
+#: inc/acf/includes/admin/views/field-group-fields.php:41
 msgid "New Field"
 msgstr ""
 
@@ -209,31 +266,41 @@ msgid "No Fields found"
 msgstr ""
 
 #: inc/acf/acf.php:383
-msgid "No Fields found in Trash"
+msgid ""
+"No Fields found in Trash"
 msgstr ""
 
-#: inc/acf/acf.php:418 inc/acf/includes/admin/admin-field-group.php:402
+#: inc/acf/acf.php:418
+#: inc/acf/includes/admin/admin-field-group.php:402
 #: inc/acf/includes/admin/admin-field-groups.php:587
 msgid "Inactive"
 msgstr ""
 
 #: inc/acf/acf.php:423
 #, php-format
-msgid "Inactive <span class=\"count\">(%s)</span>"
-msgid_plural "Inactive <span class=\"count\">(%s)</span>"
+msgid ""
+"Inactive <span class="
+"\"count\">(%s)</span>"
+msgid_plural ""
+"Inactive <span class="
+"\"count\">(%s)</span>"
 msgstr[0] ""
 msgstr[1] ""
 
 #: inc/acf/assets/js/acf-field-group.js:44
 #: inc/acf/assets/js/acf-field-group.min.js:1
 #: inc/acf/includes/admin/admin-field-group.php:173
-msgid "Field group title is required"
+msgid ""
+"Field group title is "
+"required"
 msgstr ""
 
 #: inc/acf/assets/js/acf-field-group.js:56
 #: inc/acf/assets/js/acf-field-group.min.js:1
 #: inc/acf/includes/admin/admin-field-group.php:174
-msgid "Move to trash. Are you sure?"
+msgid ""
+"Move to trash. Are you "
+"sure?"
 msgstr ""
 
 #: inc/acf/assets/js/acf-field-group.js:384
@@ -246,7 +313,10 @@ msgstr ""
 #: inc/acf/assets/js/acf-field-group.js:604
 #: inc/acf/assets/js/acf-field-group.min.js:1
 #: inc/acf/includes/admin/admin-field-group.php:171
-msgid "The string \"field_\" may not be used at the start of a field name"
+msgid ""
+"The string \"field_\" "
+"may not be used at the "
+"start of a field name"
 msgstr ""
 
 #: inc/acf/assets/js/acf-field-group.js:719
@@ -259,7 +329,10 @@ msgstr ""
 #: inc/acf/assets/js/acf-field-group.js:804
 #: inc/acf/assets/js/acf-field-group.min.js:1
 #: inc/acf/includes/admin/admin-field-group.php:172
-msgid "This field cannot be moved until its changes have been saved"
+msgid ""
+"This field cannot be "
+"moved until its changes "
+"have been saved"
 msgstr ""
 
 #: inc/acf/assets/js/acf-field-group.js:816
@@ -277,7 +350,9 @@ msgstr ""
 #: inc/acf/assets/js/acf-field-group.js:1392
 #: inc/acf/assets/js/acf-field-group.min.js:1
 #: inc/acf/includes/admin/admin-field-group.php:175
-msgid "No toggle fields available"
+msgid ""
+"No toggle fields "
+"available"
 msgstr ""
 
 #: inc/acf/assets/js/acf-field-group.js:1522
@@ -292,18 +367,26 @@ msgstr ""
 msgid "or"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:3720 inc/acf/assets/js/acf-input.min.js:1
+#: inc/acf/assets/js/acf-input.js:3720
+#: inc/acf/assets/js/acf-input.min.js:1
 #: inc/acf/includes/assets.php:184
-msgid "The changes you made will be lost if you navigate away from this page"
+msgid ""
+"The changes you made "
+"will be lost if you "
+"navigate away from this "
+"page"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:4064 inc/acf/assets/js/acf-input.min.js:1
-#: inc/acf/includes/assets.php:222 inc/acf/includes/forms/form-comment.php:166
+#: inc/acf/assets/js/acf-input.js:4064
+#: inc/acf/assets/js/acf-input.min.js:1
+#: inc/acf/includes/assets.php:222
+#: inc/acf/includes/forms/form-comment.php:166
 #: inc/acf/pro/admin/admin-options-page.php:325
 msgid "Edit field group"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:4140 inc/acf/assets/js/acf-input.min.js:1
+#: inc/acf/assets/js/acf-input.js:4140
+#: inc/acf/assets/js/acf-input.min.js:1
 #: inc/acf/includes/assets.php:206
 #: inc/acf/includes/fields/class-acf-field-file.php:153
 #: inc/acf/includes/fields/class-acf-field-image.php:134
@@ -313,121 +396,149 @@ msgstr ""
 msgid "Remove"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:4141 inc/acf/assets/js/acf-input.min.js:1
+#: inc/acf/assets/js/acf-input.js:4141
+#: inc/acf/assets/js/acf-input.min.js:1
 #: inc/acf/includes/assets.php:207
 msgid "Cancel"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:4335 inc/acf/assets/js/acf-input.min.js:1
+#: inc/acf/assets/js/acf-input.js:4335
+#: inc/acf/assets/js/acf-input.min.js:1
 #: inc/acf/includes/assets.php:203
 msgid "Are you sure?"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:4336 inc/acf/assets/js/acf-input.min.js:1
+#: inc/acf/assets/js/acf-input.js:4336
+#: inc/acf/assets/js/acf-input.min.js:1
 #: inc/acf/includes/assets.php:204
 #: inc/acf/includes/fields/class-acf-field-true_false.php:79
 #: inc/acf/includes/fields/class-acf-field-true_false.php:159
 #: inc/acf/pro/admin/views/html-settings-updates.php:89
-#: inc/custom-fields-cats.php:101
 msgid "Yes"
-msgstr "Ja"
+msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:4337 inc/acf/assets/js/acf-input.min.js:1
+#: inc/acf/assets/js/acf-input.js:4337
+#: inc/acf/assets/js/acf-input.min.js:1
 #: inc/acf/includes/assets.php:205
 #: inc/acf/includes/fields/class-acf-field-true_false.php:80
 #: inc/acf/includes/fields/class-acf-field-true_false.php:174
 #: inc/acf/pro/admin/views/html-settings-updates.php:99
 msgid "No"
-msgstr "Nej"
+msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:6353 inc/acf/assets/js/acf-input.js:6423
+#: inc/acf/assets/js/acf-input.js:6353
+#: inc/acf/assets/js/acf-input.js:6423
 #: inc/acf/assets/js/acf-input.min.js:2
 #, javascript-format
-msgid "Location not found: %s"
+msgid ""
+"Location not found: %s"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:6446 inc/acf/assets/js/acf-input.min.js:2
+#: inc/acf/assets/js/acf-input.js:6446
+#: inc/acf/assets/js/acf-input.min.js:2
 #: inc/acf/includes/fields/class-acf-field-google-map.php:59
-msgid "Sorry, this browser does not support geolocation"
+msgid ""
+"Sorry, this browser does "
+"not support geolocation"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:6797 inc/acf/assets/js/acf-input.min.js:2
+#: inc/acf/assets/js/acf-input.js:6797
+#: inc/acf/assets/js/acf-input.min.js:2
 #: inc/acf/includes/fields/class-acf-field-image.php:63
 msgid "Select Image"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:6823 inc/acf/assets/js/acf-input.min.js:2
+#: inc/acf/assets/js/acf-input.js:6823
+#: inc/acf/assets/js/acf-input.min.js:2
 #: inc/acf/includes/fields/class-acf-field-image.php:64
 #: inc/acf/pro/assets/js/acf-pro-input.js:1464
 #: inc/acf/pro/assets/js/acf-pro-input.min.js:1
 msgid "Edit Image"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:6824 inc/acf/assets/js/acf-input.min.js:2
+#: inc/acf/assets/js/acf-input.js:6824
+#: inc/acf/assets/js/acf-input.min.js:2
 #: inc/acf/includes/fields/class-acf-field-image.php:65
 #: inc/acf/pro/assets/js/acf-pro-input.js:1465
 #: inc/acf/pro/assets/js/acf-pro-input.min.js:1
 msgid "Update Image"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:6940 inc/acf/assets/js/acf-input.min.js:2
+#: inc/acf/assets/js/acf-input.js:6940
+#: inc/acf/assets/js/acf-input.min.js:2
 #: inc/acf/includes/admin/tools/class-acf-admin-tool-import.php:52
 #: inc/acf/includes/fields/class-acf-field-file.php:57
 msgid "Select File"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:6968 inc/acf/assets/js/acf-input.min.js:2
+#: inc/acf/assets/js/acf-input.js:6968
+#: inc/acf/assets/js/acf-input.min.js:2
 #: inc/acf/includes/fields/class-acf-field-file.php:58
 msgid "Edit File"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:6969 inc/acf/assets/js/acf-input.min.js:2
+#: inc/acf/assets/js/acf-input.js:6969
+#: inc/acf/assets/js/acf-input.min.js:2
 #: inc/acf/includes/fields/class-acf-field-file.php:59
 msgid "Update File"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:7614 inc/acf/assets/js/acf-input.min.js:2
+#: inc/acf/assets/js/acf-input.js:7614
+#: inc/acf/assets/js/acf-input.min.js:2
 #: inc/acf/includes/fields/class-acf-field-relationship.php:62
-msgid "Maximum values reached ( {max} values )"
+msgid ""
+"Maximum values reached "
+"( {max} values )"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:7706 inc/acf/assets/js/acf-input.min.js:2
+#: inc/acf/assets/js/acf-input.js:7706
+#: inc/acf/assets/js/acf-input.min.js:2
 #: inc/acf/includes/fields/class-acf-field-relationship.php:63
 msgid "Loading"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:7726 inc/acf/assets/js/acf-input.min.js:2
+#: inc/acf/assets/js/acf-input.js:7726
+#: inc/acf/assets/js/acf-input.min.js:2
 #: inc/acf/includes/fields/class-acf-field-relationship.php:64
 msgid "No matches found"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:9703 inc/acf/includes/assets.php:210
+#: inc/acf/assets/js/acf-input.js:9703
+#: inc/acf/includes/assets.php:210
 msgid "Has any value"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:9730 inc/acf/includes/assets.php:211
+#: inc/acf/assets/js/acf-input.js:9730
+#: inc/acf/includes/assets.php:211
 msgid "Has no value"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:9755 inc/acf/assets/js/acf-input.js:9919
+#: inc/acf/assets/js/acf-input.js:9755
+#: inc/acf/assets/js/acf-input.js:9919
 #: inc/acf/includes/assets.php:212
 msgid "Value is equal to"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:9786 inc/acf/assets/js/acf-input.js:9981
+#: inc/acf/assets/js/acf-input.js:9786
+#: inc/acf/assets/js/acf-input.js:9981
 #: inc/acf/includes/assets.php:213
-msgid "Value is not equal to"
+msgid ""
+"Value is not equal to"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:9809 inc/acf/includes/assets.php:214
-msgid "Value matches pattern"
+#: inc/acf/assets/js/acf-input.js:9809
+#: inc/acf/includes/assets.php:214
+msgid ""
+"Value matches pattern"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:9836 inc/acf/includes/assets.php:215
+#: inc/acf/assets/js/acf-input.js:9836
+#: inc/acf/includes/assets.php:215
 msgid "Value contains"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:9868 inc/acf/assets/js/acf-input.js:9896
+#: inc/acf/assets/js/acf-input.js:9868
+#: inc/acf/assets/js/acf-input.js:9896
 #: inc/acf/includes/admin/admin-field-group.php:177
 msgid "Checked"
 msgstr ""
@@ -437,95 +548,123 @@ msgstr ""
 msgid "Null"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:10004 inc/acf/includes/assets.php:216
-msgid "Value is greater than"
+#: inc/acf/assets/js/acf-input.js:10004
+#: inc/acf/includes/assets.php:216
+msgid ""
+"Value is greater than"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:10036 inc/acf/includes/assets.php:217
+#: inc/acf/assets/js/acf-input.js:10036
+#: inc/acf/includes/assets.php:217
 msgid "Value is less than"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:10065 inc/acf/includes/assets.php:218
-msgid "Selection is greater than"
+#: inc/acf/assets/js/acf-input.js:10065
+#: inc/acf/includes/assets.php:218
+msgid ""
+"Selection is greater than"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:10085 inc/acf/includes/assets.php:219
-msgid "Selection is less than"
+#: inc/acf/assets/js/acf-input.js:10085
+#: inc/acf/includes/assets.php:219
+msgid ""
+"Selection is less than"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:10416 inc/acf/assets/js/acf-input.min.js:3
+#: inc/acf/assets/js/acf-input.js:10416
+#: inc/acf/assets/js/acf-input.min.js:3
 #: inc/acf/includes/assets.php:187
 #: inc/acf/includes/fields/class-acf-field-select.php:259
 msgctxt "verb"
 msgid "Select"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:10471 inc/acf/assets/js/acf-input.min.js:3
+#: inc/acf/assets/js/acf-input.js:10471
+#: inc/acf/assets/js/acf-input.min.js:3
 #: inc/acf/includes/assets.php:194
 #: inc/acf/includes/fields/class-acf-field-image.php:66
 msgid "All images"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:10532 inc/acf/assets/js/acf-input.min.js:3
+#: inc/acf/assets/js/acf-input.js:10532
+#: inc/acf/assets/js/acf-input.min.js:3
 #: inc/acf/includes/assets.php:190
-msgid "Uploaded to this post"
+msgid ""
+"Uploaded to this post"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:10573 inc/acf/assets/js/acf-input.min.js:3
+#: inc/acf/assets/js/acf-input.js:10573
+#: inc/acf/assets/js/acf-input.min.js:3
 #: inc/acf/includes/assets.php:189
 msgctxt "verb"
 msgid "Update"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:10685 inc/acf/assets/js/acf-input.min.js:3
+#: inc/acf/assets/js/acf-input.js:10685
+#: inc/acf/assets/js/acf-input.min.js:3
 #: inc/acf/includes/assets.php:191
 msgid "Expand Details"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:10686 inc/acf/assets/js/acf-input.min.js:3
+#: inc/acf/assets/js/acf-input.js:10686
+#: inc/acf/assets/js/acf-input.min.js:3
 #: inc/acf/includes/assets.php:192
 msgid "Collapse Details"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:10900 inc/acf/assets/js/acf-input.min.js:3
+#: inc/acf/assets/js/acf-input.js:10900
+#: inc/acf/assets/js/acf-input.min.js:3
 #: inc/acf/includes/assets.php:193
 msgid "Restricted"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:12948 inc/acf/assets/js/acf-input.min.js:4
-#: inc/acf/includes/assets.php:198 inc/acf/includes/validation.php:285
+#: inc/acf/assets/js/acf-input.js:12948
+#: inc/acf/assets/js/acf-input.min.js:4
+#: inc/acf/includes/assets.php:198
+#: inc/acf/includes/validation.php:285
 #: inc/acf/includes/validation.php:296
 msgid "Validation failed"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:12953 inc/acf/assets/js/acf-input.min.js:4
+#: inc/acf/assets/js/acf-input.js:12953
+#: inc/acf/assets/js/acf-input.min.js:4
 #: inc/acf/includes/assets.php:199
-msgid "1 field requires attention"
+msgid ""
+"1 field requires "
+"attention"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:12955 inc/acf/assets/js/acf-input.min.js:4
+#: inc/acf/assets/js/acf-input.js:12955
+#: inc/acf/assets/js/acf-input.min.js:4
 #: inc/acf/includes/assets.php:200
 #, php-format, javascript-format
-msgid "%d fields require attention"
+msgid ""
+"%d fields require "
+"attention"
 msgstr ""
 
-#: inc/acf/assets/js/acf-input.js:13122 inc/acf/assets/js/acf-input.min.js:4
+#: inc/acf/assets/js/acf-input.js:13122
+#: inc/acf/assets/js/acf-input.min.js:4
 #: inc/acf/includes/assets.php:197
-msgid "Validation successful"
+msgid ""
+"Validation successful"
 msgstr ""
 
 #: inc/acf/includes/admin/admin-field-group.php:86
 #: inc/acf/includes/admin/admin-field-group.php:87
 #: inc/acf/includes/admin/admin-field-group.php:89
-msgid "Field group updated."
+msgid ""
+"Field group updated."
 msgstr ""
 
 #: inc/acf/includes/admin/admin-field-group.php:88
-msgid "Field group deleted."
+msgid ""
+"Field group deleted."
 msgstr ""
 
 #: inc/acf/includes/admin/admin-field-group.php:91
-msgid "Field group published."
+msgid ""
+"Field group published."
 msgstr ""
 
 #: inc/acf/includes/admin/admin-field-group.php:92
@@ -533,15 +672,20 @@ msgid "Field group saved."
 msgstr ""
 
 #: inc/acf/includes/admin/admin-field-group.php:93
-msgid "Field group submitted."
+msgid ""
+"Field group submitted."
 msgstr ""
 
 #: inc/acf/includes/admin/admin-field-group.php:94
-msgid "Field group scheduled for."
+msgid ""
+"Field group scheduled "
+"for."
 msgstr ""
 
 #: inc/acf/includes/admin/admin-field-group.php:95
-msgid "Field group draft updated."
+msgid ""
+"Field group draft "
+"updated."
 msgstr ""
 
 #: inc/acf/includes/admin/admin-field-group.php:221
@@ -568,7 +712,10 @@ msgstr ""
 
 #: inc/acf/includes/admin/admin-field-group.php:764
 #, php-format
-msgid "The %s field can now be found in the %s field group"
+msgid ""
+"The %s field can now be "
+"found in the %s field "
+"group"
 msgstr ""
 
 #: inc/acf/includes/admin/admin-field-group.php:765
@@ -576,7 +723,10 @@ msgid "Close Window"
 msgstr ""
 
 #: inc/acf/includes/admin/admin-field-group.php:806
-msgid "Please select the destination for this field"
+msgid ""
+"Please select the "
+"destination for this "
+"field"
 msgstr ""
 
 #: inc/acf/includes/admin/admin-field-group.php:813
@@ -585,22 +735,32 @@ msgstr ""
 
 #: inc/acf/includes/admin/admin-field-groups.php:89
 #, php-format
-msgid "Active <span class=\"count\">(%s)</span>"
-msgid_plural "Active <span class=\"count\">(%s)</span>"
+msgid ""
+"Active <span class="
+"\"count\">(%s)</span>"
+msgid_plural ""
+"Active <span class="
+"\"count\">(%s)</span>"
 msgstr[0] ""
 msgstr[1] ""
 
 #: inc/acf/includes/admin/admin-field-groups.php:156
 #, php-format
-msgid "Field group duplicated."
-msgid_plural "%s field groups duplicated."
+msgid ""
+"Field group duplicated."
+msgid_plural ""
+"%s field groups "
+"duplicated."
 msgstr[0] ""
 msgstr[1] ""
 
 #: inc/acf/includes/admin/admin-field-groups.php:243
 #, php-format
-msgid "Field group synchronised."
-msgid_plural "%s field groups synchronised."
+msgid ""
+"Field group synchronised."
+msgid_plural ""
+"%s field groups "
+"synchronised."
 msgstr[0] ""
 msgstr[1] ""
 
@@ -620,7 +780,6 @@ msgstr ""
 #: inc/acf/includes/admin/views/html-admin-page-upgrade-network.php:38
 #: inc/acf/includes/admin/views/html-admin-page-upgrade-network.php:49
 #: inc/acf/pro/fields/class-acf-field-gallery.php:380
-#: inc/custom-fields-cats.php:139
 msgid "Description"
 msgstr ""
 
@@ -630,7 +789,10 @@ msgid "Status"
 msgstr ""
 
 #: inc/acf/includes/admin/admin-field-groups.php:626
-msgid "Customize WordPress with powerful, professional and intuitive fields."
+msgid ""
+"Customize WordPress with "
+"powerful, professional "
+"and intuitive fields."
 msgstr ""
 
 #: inc/acf/includes/admin/admin-field-groups.php:628
@@ -641,7 +803,10 @@ msgstr ""
 
 #: inc/acf/includes/admin/admin-field-groups.php:633
 #, php-format
-msgid "See what's new in <a href=\"%s\">version %s</a>."
+msgid ""
+"See what's new in <a "
+"href=\"%s\">version %s</"
+"a>."
 msgstr ""
 
 #: inc/acf/includes/admin/admin-field-groups.php:636
@@ -663,7 +828,10 @@ msgstr ""
 
 #: inc/acf/includes/admin/admin-field-groups.php:647
 #, php-format
-msgid "Thank you for creating with <a href=\"%s\">ACF</a>."
+msgid ""
+"Thank you for creating "
+"with <a href=\"%s\">ACF</"
+"a>."
 msgstr ""
 
 #: inc/acf/includes/admin/admin-field-groups.php:686
@@ -680,7 +848,8 @@ msgstr ""
 #: inc/acf/includes/admin/admin-field-groups.php:719
 #: inc/acf/includes/fields/class-acf-field-google-map.php:146
 #: inc/acf/includes/fields/class-acf-field-relationship.php:587
-#: searchform.php:13 searchform.php:19
+#: searchform.php:13
+#: searchform.php:19
 msgid "Search"
 msgstr ""
 
@@ -690,7 +859,8 @@ msgid "Select %s"
 msgstr ""
 
 #: inc/acf/includes/admin/admin-field-groups.php:786
-msgid "Synchronise field group"
+msgid ""
+"Synchronise field group"
 msgstr ""
 
 #: inc/acf/includes/admin/admin-field-groups.php:786
@@ -721,7 +891,8 @@ msgid "Upgrade Database"
 msgstr ""
 
 #: inc/acf/includes/admin/admin-upgrade.php:199
-msgid "Review sites & upgrade"
+msgid ""
+"Review sites & upgrade"
 msgstr ""
 
 #: inc/acf/includes/admin/admin.php:51
@@ -749,13 +920,16 @@ msgstr ""
 
 #: inc/acf/includes/admin/tools/class-acf-admin-tool-export.php:97
 #: inc/acf/includes/admin/tools/class-acf-admin-tool-export.php:135
-msgid "No field groups selected"
+msgid ""
+"No field groups selected"
 msgstr ""
 
 #: inc/acf/includes/admin/tools/class-acf-admin-tool-export.php:174
 #, php-format
-msgid "Exported 1 field group."
-msgid_plural "Exported %s field groups."
+msgid ""
+"Exported 1 field group."
+msgid_plural ""
+"Exported %s field groups."
 msgstr[0] ""
 msgstr[1] ""
 
@@ -766,10 +940,19 @@ msgstr ""
 
 #: inc/acf/includes/admin/tools/class-acf-admin-tool-export.php:336
 msgid ""
-"Select the field groups you would like to export and then select your export "
-"method. Use the download button to export to a .json file which you can then "
-"import to another ACF installation. Use the generate button to export to PHP "
-"code which you can place in your theme."
+"Select the field groups "
+"you would like to export "
+"and then select your "
+"export method. Use the "
+"download button to "
+"export to a .json file "
+"which you can then "
+"import to another ACF "
+"installation. Use the "
+"generate button to "
+"export to PHP code which "
+"you can place in your "
+"theme."
 msgstr ""
 
 #: inc/acf/includes/admin/tools/class-acf-admin-tool-export.php:341
@@ -778,11 +961,20 @@ msgstr ""
 
 #: inc/acf/includes/admin/tools/class-acf-admin-tool-export.php:414
 msgid ""
-"The following code can be used to register a local version of the selected "
-"field group(s). A local field group can provide many benefits such as faster "
-"load times, version control & dynamic fields/settings. Simply copy and paste "
-"the following code to your theme's functions.php file or include it within "
-"an external file."
+"The following code can "
+"be used to register a "
+"local version of the "
+"selected field group(s). "
+"A local field group can "
+"provide many benefits "
+"such as faster load "
+"times, version control & "
+"dynamic fields/settings. "
+"Simply copy and paste "
+"the following code to "
+"your theme's functions."
+"php file or include it "
+"within an external file."
 msgstr ""
 
 #: inc/acf/includes/admin/tools/class-acf-admin-tool-export.php:446
@@ -799,8 +991,13 @@ msgstr ""
 
 #: inc/acf/includes/admin/tools/class-acf-admin-tool-import.php:47
 msgid ""
-"Select the Advanced Custom Fields JSON file you would like to import. When "
-"you click the import button below, ACF will import the field groups."
+"Select the Advanced "
+"Custom Fields JSON file "
+"you would like to "
+"import. When you click "
+"the import button below, "
+"ACF will import the "
+"field groups."
 msgstr ""
 
 #: inc/acf/includes/admin/tools/class-acf-admin-tool-import.php:62
@@ -813,7 +1010,9 @@ msgid "No file selected"
 msgstr ""
 
 #: inc/acf/includes/admin/tools/class-acf-admin-tool-import.php:93
-msgid "Error uploading file. Please try again"
+msgid ""
+"Error uploading file. "
+"Please try again"
 msgstr ""
 
 #: inc/acf/includes/admin/tools/class-acf-admin-tool-import.php:98
@@ -826,8 +1025,10 @@ msgstr ""
 
 #: inc/acf/includes/admin/tools/class-acf-admin-tool-import.php:138
 #, php-format
-msgid "Imported 1 field group"
-msgid_plural "Imported %s field groups"
+msgid ""
+"Imported 1 field group"
+msgid_plural ""
+"Imported %s field groups"
 msgstr[0] ""
 msgstr[1] ""
 
@@ -865,7 +1066,8 @@ msgstr ""
 #: inc/acf/includes/fields/class-acf-field-image.php:132
 #: inc/acf/includes/fields/class-acf-field-link.php:139
 #: inc/acf/pro/fields/class-acf-field-gallery.php:337
-#: loop-templates/content-page.php:39 woocommerce/myaccount/my-address.php:61
+#: loop-templates/content-page.php:39
+#: woocommerce/myaccount/my-address.php:61
 msgid "Edit"
 msgstr ""
 
@@ -874,7 +1076,9 @@ msgid "Duplicate field"
 msgstr ""
 
 #: inc/acf/includes/admin/views/field-group-field.php:47
-msgid "Move field to another group"
+msgid ""
+"Move field to another "
+"group"
 msgstr ""
 
 #: inc/acf/includes/admin/views/field-group-field.php:47
@@ -895,7 +1099,10 @@ msgid "Field Label"
 msgstr ""
 
 #: inc/acf/includes/admin/views/field-group-field.php:66
-msgid "This is the name which will appear on the EDIT page"
+msgid ""
+"This is the name which "
+"will appear on the EDIT "
+"page"
 msgstr ""
 
 #: inc/acf/includes/admin/views/field-group-field.php:75
@@ -903,7 +1110,10 @@ msgid "Field Name"
 msgstr ""
 
 #: inc/acf/includes/admin/views/field-group-field.php:76
-msgid "Single word, no spaces. Underscores and dashes allowed"
+msgid ""
+"Single word, no spaces. "
+"Underscores and dashes "
+"allowed"
 msgstr ""
 
 #: inc/acf/includes/admin/views/field-group-field.php:85
@@ -915,7 +1125,10 @@ msgid "Instructions"
 msgstr ""
 
 #: inc/acf/includes/admin/views/field-group-field.php:97
-msgid "Instructions for authors. Shown when submitting data"
+msgid ""
+"Instructions for "
+"authors. Shown when "
+"submitting data"
 msgstr ""
 
 #: inc/acf/includes/admin/views/field-group-field.php:106
@@ -959,9 +1172,8 @@ msgstr ""
 #: inc/acf/includes/admin/views/field-group-fields.php:6
 #: inc/acf/includes/fields/class-acf-field-taxonomy.php:936
 #: inc/acf/pro/fields/class-acf-field-flexible-content.php:596
-#: inc/custom-fields-cats.php:12
 msgid "Name"
-msgstr "Namn"
+msgstr ""
 
 #: inc/acf/includes/admin/views/field-group-fields.php:7
 msgid "Key"
@@ -973,8 +1185,10 @@ msgstr ""
 
 #: inc/acf/includes/admin/views/field-group-fields.php:14
 msgid ""
-"No fields. Click the <strong>+ Add Field</strong> button to create your "
-"first field."
+"No fields. Click the "
+"<strong>+ Add Field</"
+"strong> button to create "
+"your first field."
 msgstr ""
 
 #: inc/acf/includes/admin/views/field-group-fields.php:31
@@ -987,7 +1201,9 @@ msgstr ""
 
 #: inc/acf/includes/admin/views/field-group-locations.php:10
 msgid ""
-"Create a set of rules to determine which edit screens will use these "
+"Create a set of rules to "
+"determine which edit "
+"screens will use these "
 "advanced custom fields"
 msgstr ""
 
@@ -996,11 +1212,13 @@ msgid "Style"
 msgstr ""
 
 #: inc/acf/includes/admin/views/field-group-options.php:30
-msgid "Standard (WP metabox)"
+msgid ""
+"Standard (WP metabox)"
 msgstr ""
 
 #: inc/acf/includes/admin/views/field-group-options.php:31
-msgid "Seamless (no metabox)"
+msgid ""
+"Seamless (no metabox)"
 msgstr ""
 
 #: inc/acf/includes/admin/views/field-group-options.php:38
@@ -1012,7 +1230,8 @@ msgid "High (after title)"
 msgstr ""
 
 #: inc/acf/includes/admin/views/field-group-options.php:46
-msgid "Normal (after content)"
+msgid ""
+"Normal (after content)"
 msgstr ""
 
 #: inc/acf/includes/admin/views/field-group-options.php:47
@@ -1034,7 +1253,8 @@ msgid "Left aligned"
 msgstr ""
 
 #: inc/acf/includes/admin/views/field-group-options.php:70
-msgid "Instruction placement"
+msgid ""
+"Instruction placement"
 msgstr ""
 
 #: inc/acf/includes/admin/views/field-group-options.php:77
@@ -1050,11 +1270,15 @@ msgid "Order No."
 msgstr ""
 
 #: inc/acf/includes/admin/views/field-group-options.php:86
-msgid "Field groups with a lower order will appear first"
+msgid ""
+"Field groups with a "
+"lower order will appear "
+"first"
 msgstr ""
 
 #: inc/acf/includes/admin/views/field-group-options.php:97
-msgid "Shown in field group list"
+msgid ""
+"Shown in field group list"
 msgstr ""
 
 #: inc/acf/includes/admin/views/field-group-options.php:107
@@ -1119,20 +1343,30 @@ msgid "Hide on screen"
 msgstr ""
 
 #: inc/acf/includes/admin/views/field-group-options.php:129
-msgid "<b>Select</b> items to <b>hide</b> them from the edit screen."
+msgid ""
+"<b>Select</b> items to "
+"<b>hide</b> them from "
+"the edit screen."
 msgstr ""
 
 #: inc/acf/includes/admin/views/field-group-options.php:129
 msgid ""
-"If multiple field groups appear on an edit screen, the first field group's "
-"options will be used (the one with the lowest order number)"
+"If multiple field groups "
+"appear on an edit "
+"screen, the first field "
+"group's options will be "
+"used (the one with the "
+"lowest order number)"
 msgstr ""
 
 #: inc/acf/includes/admin/views/html-admin-page-upgrade-network.php:26
 #, php-format
 msgid ""
-"The following sites require a DB upgrade. Check the ones you want to update "
-"and then click %s."
+"The following sites "
+"require a DB upgrade. "
+"Check the ones you want "
+"to update and then click "
+"%s."
 msgstr ""
 
 #: inc/acf/includes/admin/views/html-admin-page-upgrade-network.php:26
@@ -1148,7 +1382,9 @@ msgstr ""
 
 #: inc/acf/includes/admin/views/html-admin-page-upgrade-network.php:74
 #, php-format
-msgid "Site requires database upgrade from %s to %s"
+msgid ""
+"Site requires database "
+"upgrade from %s to %s"
 msgstr ""
 
 #: inc/acf/includes/admin/views/html-admin-page-upgrade-network.php:76
@@ -1158,24 +1394,35 @@ msgstr ""
 #: inc/acf/includes/admin/views/html-admin-page-upgrade-network.php:93
 #, php-format
 msgid ""
-"Database Upgrade complete. <a href=\"%s\">Return to network dashboard</a>"
+"Database Upgrade "
+"complete. <a href=\"%s"
+"\">Return to network "
+"dashboard</a>"
 msgstr ""
 
 #: inc/acf/includes/admin/views/html-admin-page-upgrade-network.php:113
-msgid "Please select at least one site to upgrade."
+msgid ""
+"Please select at least "
+"one site to upgrade."
 msgstr ""
 
 #: inc/acf/includes/admin/views/html-admin-page-upgrade-network.php:117
 #: inc/acf/includes/admin/views/html-notice-upgrade.php:38
 msgid ""
-"It is strongly recommended that you backup your database before proceeding. "
-"Are you sure you wish to run the updater now?"
+"It is strongly "
+"recommended that you "
+"backup your database "
+"before proceeding. Are "
+"you sure you wish to run "
+"the updater now?"
 msgstr ""
 
 #: inc/acf/includes/admin/views/html-admin-page-upgrade-network.php:144
 #: inc/acf/includes/admin/views/html-admin-page-upgrade.php:31
 #, php-format
-msgid "Upgrading data to version %s"
+msgid ""
+"Upgrading data to "
+"version %s"
 msgstr ""
 
 #: inc/acf/includes/admin/views/html-admin-page-upgrade-network.php:158
@@ -1188,17 +1435,22 @@ msgid "Upgrade failed."
 msgstr ""
 
 #: inc/acf/includes/admin/views/html-admin-page-upgrade.php:30
-msgid "Reading upgrade tasks..."
+msgid ""
+"Reading upgrade tasks..."
 msgstr ""
 
 #: inc/acf/includes/admin/views/html-admin-page-upgrade.php:33
 #, php-format
-msgid "Database upgrade complete. <a href=\"%s\">See what's new</a>"
+msgid ""
+"Database upgrade "
+"complete. <a href=\"%s"
+"\">See what's new</a>"
 msgstr ""
 
 #: inc/acf/includes/admin/views/html-admin-page-upgrade.php:94
 #: inc/acf/includes/ajax/class-acf-ajax-upgrade.php:32
-msgid "No updates available."
+msgid ""
+"No updates available."
 msgstr ""
 
 #: inc/acf/includes/admin/views/html-admin-tools.php:21
@@ -1206,7 +1458,8 @@ msgid "Back to all tools"
 msgstr ""
 
 #: inc/acf/includes/admin/views/html-location-group.php:3
-msgid "Show this field group if"
+msgid ""
+"Show this field group if"
 msgstr ""
 
 #: inc/acf/includes/admin/views/html-notice-upgrade.php:8
@@ -1230,38 +1483,52 @@ msgid "Options Page"
 msgstr ""
 
 #: inc/acf/includes/admin/views/html-notice-upgrade.php:21
-msgid "Database Upgrade Required"
+msgid ""
+"Database Upgrade Required"
 msgstr ""
 
 #: inc/acf/includes/admin/views/html-notice-upgrade.php:22
 #, php-format
-msgid "Thank you for updating to %s v%s!"
+msgid ""
+"Thank you for updating "
+"to %s v%s!"
 msgstr ""
 
 #: inc/acf/includes/admin/views/html-notice-upgrade.php:22
 msgid ""
-"This version contains improvements to your database and requires an upgrade."
+"This version contains "
+"improvements to your "
+"database and requires an "
+"upgrade."
 msgstr ""
 
 #: inc/acf/includes/admin/views/html-notice-upgrade.php:24
 #, php-format
 msgid ""
-"Please also check all premium add-ons (%s) are updated to the latest version."
+"Please also check all "
+"premium add-ons (%s) are "
+"updated to the latest "
+"version."
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:3
-msgid "Welcome to Advanced Custom Fields"
+msgid ""
+"Welcome to Advanced "
+"Custom Fields"
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:4
 #, php-format
 msgid ""
-"Thank you for updating! ACF %s is bigger and better than ever before. We "
-"hope you like it."
+"Thank you for updating! "
+"ACF %s is bigger and "
+"better than ever before. "
+"We hope you like it."
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:15
-msgid "A Smoother Experience"
+msgid ""
+"A Smoother Experience"
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:18
@@ -1270,9 +1537,14 @@ msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:19
 msgid ""
-"Including the popular Select2 library has improved both usability and speed "
-"across a number of field types including post object, page link, taxonomy "
-"and select."
+"Including the popular "
+"Select2 library has "
+"improved both usability "
+"and speed across a "
+"number of field types "
+"including post object, "
+"page link, taxonomy and "
+"select."
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:22
@@ -1281,8 +1553,13 @@ msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:23
 msgid ""
-"Many fields have undergone a visual refresh to make ACF look better than "
-"ever! Noticeable changes are seen on the gallery, relationship and oEmbed "
+"Many fields have "
+"undergone a visual "
+"refresh to make ACF look "
+"better than ever! "
+"Noticeable changes are "
+"seen on the gallery, "
+"relationship and oEmbed "
 "(new) fields!"
 msgstr ""
 
@@ -1292,13 +1569,20 @@ msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:27
 msgid ""
-"Redesigning the data architecture has allowed sub fields to live "
-"independently from their parents. This allows you to drag and drop fields in "
-"and out of parent fields!"
+"Redesigning the data "
+"architecture has allowed "
+"sub fields to live "
+"independently from their "
+"parents. This allows you "
+"to drag and drop fields "
+"in and out of parent "
+"fields!"
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:35
-msgid "Goodbye Add-ons. Hello PRO"
+msgid ""
+"Goodbye Add-ons. Hello "
+"PRO"
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:38
@@ -1307,15 +1591,26 @@ msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:39
 msgid ""
-"We're changing the way premium functionality is delivered in an exciting way!"
+"We're changing the way "
+"premium functionality is "
+"delivered in an exciting "
+"way!"
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:40
 #, php-format
 msgid ""
-"All 4 premium add-ons have been combined into a new <a href=\"%s\">Pro "
-"version of ACF</a>. With both personal and developer licenses available, "
-"premium functionality is more affordable and accessible than ever before!"
+"All 4 premium add-ons "
+"have been combined into "
+"a new <a href=\"%s\">Pro "
+"version of ACF</a>. With "
+"both personal and "
+"developer licenses "
+"available, premium "
+"functionality is more "
+"affordable and "
+"accessible than ever "
+"before!"
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:44
@@ -1324,14 +1619,22 @@ msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:45
 msgid ""
-"ACF PRO contains powerful features such as repeatable data, flexible content "
-"layouts, a beautiful gallery field and the ability to create extra admin "
-"options pages!"
+"ACF PRO contains "
+"powerful features such "
+"as repeatable data, "
+"flexible content "
+"layouts, a beautiful "
+"gallery field and the "
+"ability to create extra "
+"admin options pages!"
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:46
 #, php-format
-msgid "Read more about <a href=\"%s\">ACF PRO features</a>."
+msgid ""
+"Read more about <a href="
+"\"%s\">ACF PRO features</"
+"a>."
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:50
@@ -1340,16 +1643,23 @@ msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:51
 msgid ""
-"Upgrading to ACF PRO is easy. Simply purchase a license online and download "
-"the plugin!"
+"Upgrading to ACF PRO is "
+"easy. Simply purchase a "
+"license online and "
+"download the plugin!"
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:52
 #, php-format
 msgid ""
-"We also wrote an <a href=\"%s\">upgrade guide</a> to answer any questions, "
-"but if you do have one, please contact our support team via the <a href=\"%s"
-"\">help desk</a>."
+"We also wrote an <a href="
+"\"%s\">upgrade guide</a> "
+"to answer any questions, "
+"but if you do have one, "
+"please contact our "
+"support team via the <a "
+"href=\"%s\">help desk</"
+"a>."
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:61
@@ -1362,8 +1672,10 @@ msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:67
 msgid ""
-"The Link field provides a simple way to select or define a link (url, title, "
-"target)."
+"The Link field provides "
+"a simple way to select "
+"or define a link (url, "
+"title, target)."
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:71
@@ -1371,7 +1683,10 @@ msgid "Group Field"
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:72
-msgid "The Group field provides a simple way to create a group of fields."
+msgid ""
+"The Group field provides "
+"a simple way to create a "
+"group of fields."
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:76
@@ -1380,8 +1695,10 @@ msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:77
 msgid ""
-"The oEmbed field allows an easy way to embed videos, images, tweets, audio, "
-"and other content."
+"The oEmbed field allows "
+"an easy way to embed "
+"videos, images, tweets, "
+"audio, and other content."
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:81
@@ -1389,7 +1706,10 @@ msgid "Clone Field"
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:82
-msgid "The clone field allows you to select and display existing fields."
+msgid ""
+"The clone field allows "
+"you to select and "
+"display existing fields."
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:86
@@ -1397,7 +1717,10 @@ msgid "More AJAX"
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:87
-msgid "More fields use AJAX powered search to speed up page loading."
+msgid ""
+"More fields use AJAX "
+"powered search to speed "
+"up page loading."
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:91
@@ -1406,15 +1729,22 @@ msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:92
 msgid ""
-"New auto export to JSON feature improves speed and allows for syncronisation."
+"New auto export to JSON "
+"feature improves speed "
+"and allows for "
+"syncronisation."
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:96
-msgid "Easy Import / Export"
+msgid ""
+"Easy Import / Export"
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:97
-msgid "Both import and export can easily be done through a new tools page."
+msgid ""
+"Both import and export "
+"can easily be done "
+"through a new tools page."
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:101
@@ -1423,8 +1753,10 @@ msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:102
 msgid ""
-"Fields can now be mapped to menus, menu items, comments, widgets and all "
-"user forms!"
+"Fields can now be mapped "
+"to menus, menu items, "
+"comments, widgets and "
+"all user forms!"
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:106
@@ -1433,7 +1765,9 @@ msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:107
 msgid ""
-"New PHP (and JS) actions and filters have been added to allow for more "
+"New PHP (and JS) actions "
+"and filters have been "
+"added to allow for more "
 "customization."
 msgstr ""
 
@@ -1443,8 +1777,11 @@ msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:112
 msgid ""
-"The entire plugin has had a design refresh including new field types, "
-"settings and design!"
+"The entire plugin has "
+"had a design refresh "
+"including new field "
+"types, settings and "
+"design!"
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:116
@@ -1453,17 +1790,24 @@ msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:117
 msgid ""
-"Field group settings have been added for Active, Label Placement, "
-"Instructions Placement and Description."
+"Field group settings "
+"have been added for "
+"Active, Label Placement, "
+"Instructions Placement "
+"and Description."
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:121
-msgid "Better Front End Forms"
+msgid ""
+"Better Front End Forms"
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:122
 msgid ""
-"acf_form() can now create a new post on submission with lots of new settings."
+"acf_form() can now "
+"create a new post on "
+"submission with lots of "
+"new settings."
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:126
@@ -1471,7 +1815,10 @@ msgid "Better Validation"
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:127
-msgid "Form validation is now done via PHP + AJAX in favour of only JS."
+msgid ""
+"Form validation is now "
+"done via PHP + AJAX in "
+"favour of only JS."
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:131
@@ -1480,13 +1827,17 @@ msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:132
 msgid ""
-"New field group functionality allows you to move a field between groups & "
-"parents."
+"New field group "
+"functionality allows you "
+"to move a field between "
+"groups & parents."
 msgstr ""
 
 #: inc/acf/includes/admin/views/settings-info.php:143
 #, php-format
-msgid "We think you'll love the changes in %s."
+msgid ""
+"We think you'll love the "
+"changes in %s."
 msgstr ""
 
 #: inc/acf/includes/ajax/class-acf-ajax.php:157
@@ -1517,37 +1868,50 @@ msgstr ""
 
 #: inc/acf/includes/api/api-helpers.php:3586
 #, php-format
-msgid "Image width must be at least %dpx."
+msgid ""
+"Image width must be at "
+"least %dpx."
 msgstr ""
 
 #: inc/acf/includes/api/api-helpers.php:3591
 #, php-format
-msgid "Image width must not exceed %dpx."
+msgid ""
+"Image width must not "
+"exceed %dpx."
 msgstr ""
 
 #: inc/acf/includes/api/api-helpers.php:3607
 #, php-format
-msgid "Image height must be at least %dpx."
+msgid ""
+"Image height must be at "
+"least %dpx."
 msgstr ""
 
 #: inc/acf/includes/api/api-helpers.php:3612
 #, php-format
-msgid "Image height must not exceed %dpx."
+msgid ""
+"Image height must not "
+"exceed %dpx."
 msgstr ""
 
 #: inc/acf/includes/api/api-helpers.php:3630
 #, php-format
-msgid "File size must be at least %s."
+msgid ""
+"File size must be at "
+"least %s."
 msgstr ""
 
 #: inc/acf/includes/api/api-helpers.php:3635
 #, php-format
-msgid "File size must must not exceed %s."
+msgid ""
+"File size must must not "
+"exceed %s."
 msgstr ""
 
 #: inc/acf/includes/api/api-helpers.php:3669
 #, php-format
-msgid "File type must be %s."
+msgid ""
+"File type must be %s."
 msgstr ""
 
 #: inc/acf/includes/assets.php:188
@@ -1556,7 +1920,8 @@ msgid "Edit"
 msgstr ""
 
 #: inc/acf/includes/fields.php:308
-msgid "Field type does not exist"
+msgid ""
+"Field type does not exist"
 msgstr ""
 
 #: inc/acf/includes/fields.php:308
@@ -1567,7 +1932,8 @@ msgstr ""
 msgid "Basic"
 msgstr ""
 
-#: inc/acf/includes/fields.php:350 inc/acf/includes/forms/form-front.php:47
+#: inc/acf/includes/fields.php:350
+#: inc/acf/includes/forms/form-front.php:47
 msgid "Content"
 msgstr ""
 
@@ -1604,7 +1970,9 @@ msgid "Open"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-accordion.php:100
-msgid "Display this accordion as open on page load."
+msgid ""
+"Display this accordion "
+"as open on page load."
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-accordion.php:109
@@ -1612,7 +1980,10 @@ msgid "Multi-expand"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-accordion.php:110
-msgid "Allow this accordion to open without closing others."
+msgid ""
+"Allow this accordion to "
+"open without closing "
+"others."
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-accordion.php:119
@@ -1622,8 +1993,10 @@ msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-accordion.php:120
 msgid ""
-"Define an endpoint for the previous accordion to stop. This accordion will "
-"not be visible."
+"Define an endpoint for "
+"the previous accordion "
+"to stop. This accordion "
+"will not be visible."
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-button-group.php:24
@@ -1641,14 +2014,19 @@ msgstr ""
 #: inc/acf/includes/fields/class-acf-field-checkbox.php:345
 #: inc/acf/includes/fields/class-acf-field-radio.php:236
 #: inc/acf/includes/fields/class-acf-field-select.php:365
-msgid "Enter each choice on a new line."
+msgid ""
+"Enter each choice on a "
+"new line."
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-button-group.php:150
 #: inc/acf/includes/fields/class-acf-field-checkbox.php:345
 #: inc/acf/includes/fields/class-acf-field-radio.php:236
 #: inc/acf/includes/fields/class-acf-field-select.php:365
-msgid "For more control, you may specify both a value and label like this:"
+msgid ""
+"For more control, you "
+"may specify both a value "
+"and label like this:"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-button-group.php:150
@@ -1693,7 +2071,9 @@ msgstr ""
 #: inc/acf/includes/fields/class-acf-field-textarea.php:103
 #: inc/acf/includes/fields/class-acf-field-url.php:101
 #: inc/acf/includes/fields/class-acf-field-wysiwyg.php:382
-msgid "Appears when creating a new post"
+msgid ""
+"Appears when creating a "
+"new post"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-button-group.php:183
@@ -1722,7 +2102,9 @@ msgstr ""
 #: inc/acf/includes/fields/class-acf-field-file.php:215
 #: inc/acf/includes/fields/class-acf-field-link.php:167
 #: inc/acf/includes/fields/class-acf-field-radio.php:305
-msgid "Specify the returned value on front end"
+msgid ""
+"Specify the returned "
+"value on front end"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-button-group.php:197
@@ -1757,7 +2139,9 @@ msgid "Allow Custom"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-checkbox.php:358
-msgid "Allow 'custom' values to be added"
+msgid ""
+"Allow 'custom' values to "
+"be added"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-checkbox.php:364
@@ -1765,12 +2149,16 @@ msgid "Save Custom"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-checkbox.php:369
-msgid "Save 'custom' values to the field's choices"
+msgid ""
+"Save 'custom' values to "
+"the field's choices"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-checkbox.php:381
 #: inc/acf/includes/fields/class-acf-field-select.php:374
-msgid "Enter each default value on a new line"
+msgid ""
+"Enter each default value "
+"on a new line"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-checkbox.php:403
@@ -1778,7 +2166,10 @@ msgid "Toggle"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-checkbox.php:404
-msgid "Prepend an extra checkbox to toggle all choices"
+msgid ""
+"Prepend an extra "
+"checkbox to toggle all "
+"choices"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-color_picker.php:25
@@ -1806,27 +2197,33 @@ msgid "Date Picker"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-date_picker.php:59
-msgctxt "Date Picker JS closeText"
+msgctxt ""
+"Date Picker JS closeText"
 msgid "Done"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-date_picker.php:60
-msgctxt "Date Picker JS currentText"
+msgctxt ""
+"Date Picker JS "
+"currentText"
 msgid "Today"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-date_picker.php:61
-msgctxt "Date Picker JS nextText"
+msgctxt ""
+"Date Picker JS nextText"
 msgid "Next"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-date_picker.php:62
-msgctxt "Date Picker JS prevText"
+msgctxt ""
+"Date Picker JS prevText"
 msgid "Prev"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-date_picker.php:63
-msgctxt "Date Picker JS weekHeader"
+msgctxt ""
+"Date Picker JS weekHeader"
 msgid "Wk"
 msgstr ""
 
@@ -1839,7 +2236,9 @@ msgstr ""
 #: inc/acf/includes/fields/class-acf-field-date_picker.php:179
 #: inc/acf/includes/fields/class-acf-field-date_time_picker.php:184
 #: inc/acf/includes/fields/class-acf-field-time_picker.php:110
-msgid "The format displayed when editing a post"
+msgid ""
+"The format displayed "
+"when editing a post"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-date_picker.php:187
@@ -1856,7 +2255,9 @@ msgid "Save Format"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-date_picker.php:198
-msgid "The format used when saving a value"
+msgid ""
+"The format used when "
+"saving a value"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-date_picker.php:208
@@ -1874,7 +2275,9 @@ msgstr ""
 #: inc/acf/includes/fields/class-acf-field-date_picker.php:209
 #: inc/acf/includes/fields/class-acf-field-date_time_picker.php:201
 #: inc/acf/includes/fields/class-acf-field-time_picker.php:125
-msgid "The format returned via template functions"
+msgid ""
+"The format returned via "
+"template functions"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-date_picker.php:227
@@ -1887,77 +2290,107 @@ msgid "Date Time Picker"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-date_time_picker.php:68
-msgctxt "Date Time Picker JS timeOnlyTitle"
+msgctxt ""
+"Date Time Picker JS "
+"timeOnlyTitle"
 msgid "Choose Time"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-date_time_picker.php:69
-msgctxt "Date Time Picker JS timeText"
+msgctxt ""
+"Date Time Picker JS "
+"timeText"
 msgid "Time"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-date_time_picker.php:70
-msgctxt "Date Time Picker JS hourText"
+msgctxt ""
+"Date Time Picker JS "
+"hourText"
 msgid "Hour"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-date_time_picker.php:71
-msgctxt "Date Time Picker JS minuteText"
+msgctxt ""
+"Date Time Picker JS "
+"minuteText"
 msgid "Minute"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-date_time_picker.php:72
-msgctxt "Date Time Picker JS secondText"
+msgctxt ""
+"Date Time Picker JS "
+"secondText"
 msgid "Second"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-date_time_picker.php:73
-msgctxt "Date Time Picker JS millisecText"
+msgctxt ""
+"Date Time Picker JS "
+"millisecText"
 msgid "Millisecond"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-date_time_picker.php:74
-msgctxt "Date Time Picker JS microsecText"
+msgctxt ""
+"Date Time Picker JS "
+"microsecText"
 msgid "Microsecond"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-date_time_picker.php:75
-msgctxt "Date Time Picker JS timezoneText"
+msgctxt ""
+"Date Time Picker JS "
+"timezoneText"
 msgid "Time Zone"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-date_time_picker.php:76
-msgctxt "Date Time Picker JS currentText"
+msgctxt ""
+"Date Time Picker JS "
+"currentText"
 msgid "Now"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-date_time_picker.php:77
-msgctxt "Date Time Picker JS closeText"
+msgctxt ""
+"Date Time Picker JS "
+"closeText"
 msgid "Done"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-date_time_picker.php:78
-msgctxt "Date Time Picker JS selectText"
+msgctxt ""
+"Date Time Picker JS "
+"selectText"
 msgid "Select"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-date_time_picker.php:80
-msgctxt "Date Time Picker JS amText"
+msgctxt ""
+"Date Time Picker JS "
+"amText"
 msgid "AM"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-date_time_picker.php:81
-msgctxt "Date Time Picker JS amTextShort"
+msgctxt ""
+"Date Time Picker JS "
+"amTextShort"
 msgid "A"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-date_time_picker.php:84
-msgctxt "Date Time Picker JS pmText"
+msgctxt ""
+"Date Time Picker JS "
+"pmText"
 msgid "PM"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-date_time_picker.php:85
-msgctxt "Date Time Picker JS pmTextShort"
+msgctxt ""
+"Date Time Picker JS "
+"pmTextShort"
 msgid "P"
 msgstr ""
 
@@ -1980,7 +2413,8 @@ msgstr ""
 #: inc/acf/includes/fields/class-acf-field-text.php:105
 #: inc/acf/includes/fields/class-acf-field-textarea.php:112
 #: inc/acf/includes/fields/class-acf-field-url.php:110
-msgid "Appears within the input"
+msgid ""
+"Appears within the input"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-email.php:136
@@ -1996,7 +2430,8 @@ msgstr ""
 #: inc/acf/includes/fields/class-acf-field-password.php:81
 #: inc/acf/includes/fields/class-acf-field-range.php:195
 #: inc/acf/includes/fields/class-acf-field-text.php:114
-msgid "Appears before the input"
+msgid ""
+"Appears before the input"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-email.php:145
@@ -2012,7 +2447,8 @@ msgstr ""
 #: inc/acf/includes/fields/class-acf-field-password.php:90
 #: inc/acf/includes/fields/class-acf-field-range.php:204
 #: inc/acf/includes/fields/class-acf-field-text.php:123
-msgid "Appears after the input"
+msgid ""
+"Appears after the input"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-file.php:25
@@ -2058,7 +2494,9 @@ msgstr ""
 #: inc/acf/includes/fields/class-acf-field-file.php:230
 #: inc/acf/includes/fields/class-acf-field-image.php:221
 #: inc/acf/pro/fields/class-acf-field-gallery.php:593
-msgid "Limit the media library choice"
+msgid ""
+"Limit the media library "
+"choice"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-file.php:235
@@ -2089,7 +2527,9 @@ msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-file.php:244
 #: inc/acf/includes/fields/class-acf-field-file.php:255
-msgid "Restrict which files can be uploaded"
+msgid ""
+"Restrict which files can "
+"be uploaded"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-file.php:254
@@ -2107,7 +2547,9 @@ msgstr ""
 #: inc/acf/includes/fields/class-acf-field-file.php:266
 #: inc/acf/includes/fields/class-acf-field-image.php:293
 #: inc/acf/pro/fields/class-acf-field-gallery.php:679
-msgid "Comma separated list. Leave blank for all types"
+msgid ""
+"Comma separated list. "
+"Leave blank for all types"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-google-map.php:25
@@ -2119,11 +2561,13 @@ msgid "Clear location"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-google-map.php:148
-msgid "Find current location"
+msgid ""
+"Find current location"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-google-map.php:151
-msgid "Search for address..."
+msgid ""
+"Search for address..."
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-google-map.php:181
@@ -2133,7 +2577,8 @@ msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-google-map.php:182
 #: inc/acf/includes/fields/class-acf-field-google-map.php:193
-msgid "Center the initial map"
+msgid ""
+"Center the initial map"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-google-map.php:204
@@ -2141,7 +2586,9 @@ msgid "Zoom"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-google-map.php:205
-msgid "Set the initial zoom level"
+msgid ""
+"Set the initial zoom "
+"level"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-google-map.php:214
@@ -2154,7 +2601,8 @@ msgid "Height"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-google-map.php:215
-msgid "Customize the map height"
+msgid ""
+"Customize the map height"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-group.php:25
@@ -2168,7 +2616,10 @@ msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-group.php:475
 #: inc/acf/pro/fields/class-acf-field-clone.php:844
-msgid "Specify the style used to render the selected fields"
+msgid ""
+"Specify the style used "
+"to render the selected "
+"fields"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-group.php:480
@@ -2194,7 +2645,6 @@ msgid "Row"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-image.php:25
-#: inc/custom-fields-cats.php:158
 msgid "Image"
 msgstr ""
 
@@ -2230,7 +2680,9 @@ msgstr ""
 #: inc/acf/includes/fields/class-acf-field-image.php:264
 #: inc/acf/pro/fields/class-acf-field-gallery.php:622
 #: inc/acf/pro/fields/class-acf-field-gallery.php:651
-msgid "Restrict which images can be uploaded"
+msgid ""
+"Restrict which images "
+"can be uploaded"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-image.php:238
@@ -2250,7 +2702,8 @@ msgid "Select Link"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-link.php:138
-msgid "Opens in a new window/tab"
+msgid ""
+"Opens in a new window/tab"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-link.php:172
@@ -2274,17 +2727,23 @@ msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-message.php:111
 #: inc/acf/includes/fields/class-acf-field-textarea.php:140
-msgid "Controls how new lines are rendered"
+msgid ""
+"Controls how new lines "
+"are rendered"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-message.php:115
 #: inc/acf/includes/fields/class-acf-field-textarea.php:144
-msgid "Automatically add paragraphs"
+msgid ""
+"Automatically add "
+"paragraphs"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-message.php:116
 #: inc/acf/includes/fields/class-acf-field-textarea.php:145
-msgid "Automatically add &lt;br&gt;"
+msgid ""
+"Automatically add &lt;"
+"br&gt;"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-message.php:117
@@ -2297,7 +2756,10 @@ msgid "Escape HTML"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-message.php:125
-msgid "Allow HTML markup to display as visible text instead of rendering"
+msgid ""
+"Allow HTML markup to "
+"display as visible text "
+"instead of rendering"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-number.php:25
@@ -2320,17 +2782,22 @@ msgid "Step Size"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-number.php:219
-msgid "Value must be a number"
+msgid ""
+"Value must be a number"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-number.php:237
 #, php-format
-msgid "Value must be equal to or higher than %d"
+msgid ""
+"Value must be equal to "
+"or higher than %d"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-number.php:245
 #, php-format
-msgid "Value must be equal to or lower than %d"
+msgid ""
+"Value must be equal to "
+"or lower than %d"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-oembed.php:25
@@ -2392,11 +2859,13 @@ msgstr ""
 #: inc/acf/includes/fields/class-acf-field-post_object.php:421
 #: inc/acf/includes/fields/class-acf-field-select.php:392
 #: inc/acf/includes/fields/class-acf-field-user.php:71
-msgid "Select multiple values?"
+msgid ""
+"Select multiple values?"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-password.php:25
-#: woocommerce/global/form-login.php:37 woocommerce/myaccount/form-login.php:42
+#: woocommerce/global/form-login.php:37
+#: woocommerce/myaccount/form-login.php:42
 #: woocommerce/myaccount/form-login.php:94
 msgid "Password"
 msgstr ""
@@ -2421,7 +2890,9 @@ msgid "Other"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-radio.php:259
-msgid "Add 'other' choice to allow for custom values"
+msgid ""
+"Add 'other' choice to "
+"allow for custom values"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-radio.php:265
@@ -2429,7 +2900,9 @@ msgid "Save Other"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-radio.php:270
-msgid "Save 'other' values to the field's choices"
+msgid ""
+"Save 'other' values to "
+"the field's choices"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-range.php:25
@@ -2473,7 +2946,10 @@ msgid "Elements"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-relationship.php:597
-msgid "Selected elements will be displayed in each result"
+msgid ""
+"Selected elements will "
+"be displayed in each "
+"result"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-relationship.php:608
@@ -2487,8 +2963,12 @@ msgstr ""
 #: inc/acf/includes/fields/class-acf-field-relationship.php:721
 #: inc/acf/pro/fields/class-acf-field-gallery.php:779
 #, php-format
-msgid "%s requires at least %s selection"
-msgid_plural "%s requires at least %s selections"
+msgid ""
+"%s requires at least %s "
+"selection"
+msgid_plural ""
+"%s requires at least %s "
+"selections"
 msgstr[0] ""
 msgstr[1] ""
 
@@ -2499,66 +2979,103 @@ msgid "Select"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-select.php:111
-msgctxt "Select2 JS matches_1"
-msgid "One result is available, press enter to select it."
+msgctxt ""
+"Select2 JS matches_1"
+msgid ""
+"One result is available, "
+"press enter to select it."
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-select.php:112
 #, php-format
-msgctxt "Select2 JS matches_n"
-msgid "%d results are available, use up and down arrow keys to navigate."
+msgctxt ""
+"Select2 JS matches_n"
+msgid ""
+"%d results are "
+"available, use up and "
+"down arrow keys to "
+"navigate."
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-select.php:113
-msgctxt "Select2 JS matches_0"
+msgctxt ""
+"Select2 JS matches_0"
 msgid "No matches found"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-select.php:114
-msgctxt "Select2 JS input_too_short_1"
-msgid "Please enter 1 or more characters"
+msgctxt ""
+"Select2 JS "
+"input_too_short_1"
+msgid ""
+"Please enter 1 or more "
+"characters"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-select.php:115
 #, php-format
-msgctxt "Select2 JS input_too_short_n"
-msgid "Please enter %d or more characters"
+msgctxt ""
+"Select2 JS "
+"input_too_short_n"
+msgid ""
+"Please enter %d or more "
+"characters"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-select.php:116
-msgctxt "Select2 JS input_too_long_1"
-msgid "Please delete 1 character"
+msgctxt ""
+"Select2 JS "
+"input_too_long_1"
+msgid ""
+"Please delete 1 character"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-select.php:117
 #, php-format
-msgctxt "Select2 JS input_too_long_n"
-msgid "Please delete %d characters"
+msgctxt ""
+"Select2 JS "
+"input_too_long_n"
+msgid ""
+"Please delete %d "
+"characters"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-select.php:118
-msgctxt "Select2 JS selection_too_long_1"
-msgid "You can only select 1 item"
+msgctxt ""
+"Select2 JS "
+"selection_too_long_1"
+msgid ""
+"You can only select 1 "
+"item"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-select.php:119
 #, php-format
-msgctxt "Select2 JS selection_too_long_n"
-msgid "You can only select %d items"
+msgctxt ""
+"Select2 JS "
+"selection_too_long_n"
+msgid ""
+"You can only select %d "
+"items"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-select.php:120
-msgctxt "Select2 JS load_more"
-msgid "Loading more results&hellip;"
+msgctxt ""
+"Select2 JS load_more"
+msgid ""
+"Loading more "
+"results&hellip;"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-select.php:121
-msgctxt "Select2 JS searching"
+msgctxt ""
+"Select2 JS searching"
 msgid "Searching&hellip;"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-select.php:122
-msgctxt "Select2 JS load_fail"
+msgctxt ""
+"Select2 JS load_fail"
 msgid "Loading failed"
 msgstr ""
 
@@ -2568,11 +3085,15 @@ msgid "Stylised UI"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-select.php:412
-msgid "Use AJAX to lazy load choices?"
+msgid ""
+"Use AJAX to lazy load "
+"choices?"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-select.php:428
-msgid "Specify the value returned"
+msgid ""
+"Specify the value "
+"returned"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-separator.php:25
@@ -2589,8 +3110,10 @@ msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-tab.php:115
 msgid ""
-"Define an endpoint for the previous tabs to stop. This will start a new "
-"group of tabs."
+"Define an endpoint for "
+"the previous tabs to "
+"stop. This will start a "
+"new group of tabs."
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-taxonomy.php:711
@@ -2600,7 +3123,9 @@ msgid "No %s"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-taxonomy.php:752
-msgid "Select the taxonomy to be displayed"
+msgid ""
+"Select the taxonomy to "
+"be displayed"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-taxonomy.php:761
@@ -2608,7 +3133,9 @@ msgid "Appearance"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-taxonomy.php:762
-msgid "Select the appearance of this field"
+msgid ""
+"Select the appearance of "
+"this field"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-taxonomy.php:767
@@ -2632,7 +3159,9 @@ msgid "Create Terms"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-taxonomy.php:797
-msgid "Allow new terms to be created whilst editing"
+msgid ""
+"Allow new terms to be "
+"created whilst editing"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-taxonomy.php:806
@@ -2640,7 +3169,9 @@ msgid "Save Terms"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-taxonomy.php:807
-msgid "Connect selected terms to the post"
+msgid ""
+"Connect selected terms "
+"to the post"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-taxonomy.php:816
@@ -2648,7 +3179,9 @@ msgid "Load Terms"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-taxonomy.php:817
-msgid "Load value from posts terms"
+msgid ""
+"Load value from posts "
+"terms"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-taxonomy.php:831
@@ -2661,7 +3194,8 @@ msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-taxonomy.php:882
 #, php-format
-msgid "User unable to add new %s"
+msgid ""
+"User unable to add new %s"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-taxonomy.php:892
@@ -2690,13 +3224,16 @@ msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-text.php:132
 #: inc/acf/includes/fields/class-acf-field-textarea.php:121
-msgid "Leave blank for no limit"
+msgid ""
+"Leave blank for no limit"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-text.php:157
 #: inc/acf/includes/fields/class-acf-field-textarea.php:215
 #, php-format
-msgid "Value must not exceed %d characters"
+msgid ""
+"Value must not exceed %d "
+"characters"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-textarea.php:25
@@ -2708,7 +3245,8 @@ msgid "Rows"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-textarea.php:130
-msgid "Sets the textarea height"
+msgid ""
+"Sets the textarea height"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-time_picker.php:25
@@ -2720,7 +3258,9 @@ msgid "True / False"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-true_false.php:127
-msgid "Displays text alongside the checkbox"
+msgid ""
+"Displays text alongside "
+"the checkbox"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-true_false.php:155
@@ -2728,7 +3268,8 @@ msgid "On Text"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-true_false.php:156
-msgid "Text shown when active"
+msgid ""
+"Text shown when active"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-true_false.php:170
@@ -2736,7 +3277,8 @@ msgid "Off Text"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-true_false.php:171
-msgid "Text shown when inactive"
+msgid ""
+"Text shown when inactive"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-url.php:25
@@ -2744,7 +3286,8 @@ msgid "Url"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-url.php:151
-msgid "Value must be a valid URL"
+msgid ""
+"Value must be a valid URL"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-user.php:20
@@ -2773,7 +3316,8 @@ msgid "User ID"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-user.php:334
-msgid "Error loading field."
+msgid ""
+"Error loading field."
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-wysiwyg.php:25
@@ -2785,12 +3329,16 @@ msgid "Visual"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-wysiwyg.php:331
-msgctxt "Name for the Text editor tab (formerly HTML)"
+msgctxt ""
+"Name for the Text editor "
+"tab (formerly HTML)"
 msgid "Text"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-wysiwyg.php:337
-msgid "Click to initialize TinyMCE"
+msgid ""
+"Click to initialize "
+"TinyMCE"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-wysiwyg.php:390
@@ -2814,15 +3362,21 @@ msgid "Toolbar"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-wysiwyg.php:419
-msgid "Show Media Upload Buttons?"
+msgid ""
+"Show Media Upload "
+"Buttons?"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-wysiwyg.php:429
-msgid "Delay initialization?"
+msgid ""
+"Delay initialization?"
 msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-wysiwyg.php:430
-msgid "TinyMCE will not be initialized until field is clicked"
+msgid ""
+"TinyMCE will not be "
+"initialized until field "
+"is clicked"
 msgstr ""
 
 #: inc/acf/includes/forms/form-front.php:55
@@ -2845,7 +3399,9 @@ msgstr ""
 
 #: inc/acf/includes/forms/form-user.php:336
 #, php-format
-msgid "<strong>ERROR</strong>: %s"
+msgid ""
+"<strong>ERROR</strong>: "
+"%s"
 msgstr ""
 
 #: inc/acf/includes/locations.php:93
@@ -2949,15 +3505,20 @@ msgid "Posts Page"
 msgstr ""
 
 #: inc/acf/includes/locations/class-acf-location-page-type.php:148
-msgid "Top Level Page (no parent)"
+msgid ""
+"Top Level Page (no "
+"parent)"
 msgstr ""
 
 #: inc/acf/includes/locations/class-acf-location-page-type.php:149
-msgid "Parent Page (has children)"
+msgid ""
+"Parent Page (has "
+"children)"
 msgstr ""
 
 #: inc/acf/includes/locations/class-acf-location-page-type.php:150
-msgid "Child Page (has parent)"
+msgid ""
+"Child Page (has parent)"
 msgstr ""
 
 #: inc/acf/includes/locations/class-acf-location-post-category.php:27
@@ -3004,11 +3565,14 @@ msgstr ""
 
 #: inc/acf/includes/validation.php:364
 #, php-format
-msgid "%s value is required"
+msgid ""
+"%s value is required"
 msgstr ""
 
 #: inc/acf/pro/acf-pro.php:28
-msgid "Advanced Custom Fields PRO"
+msgid ""
+"Advanced Custom Fields "
+"PRO"
 msgstr ""
 
 #: inc/acf/pro/admin/admin-options-page.php:198
@@ -3018,12 +3582,17 @@ msgstr ""
 #: inc/acf/pro/admin/admin-options-page.php:204
 #, php-format
 msgid ""
-"No Custom Field Groups found for this options page. <a href=\"%s\">Create a "
-"Custom Field Group</a>"
+"No Custom Field Groups "
+"found for this options "
+"page. <a href=\"%s"
+"\">Create a Custom Field "
+"Group</a>"
 msgstr ""
 
 #: inc/acf/pro/admin/admin-updates.php:49
-msgid "<b>Error</b>. Could not connect to update server"
+msgid ""
+"<b>Error</b>. Could not "
+"connect to update server"
 msgstr ""
 
 #: inc/acf/pro/admin/admin-updates.php:118
@@ -3033,8 +3602,12 @@ msgstr ""
 
 #: inc/acf/pro/admin/admin-updates.php:191
 msgid ""
-"<b>Error</b>. Could not authenticate update package. Please check again or "
-"deactivate and reactivate your ACF PRO license."
+"<b>Error</b>. Could not "
+"authenticate update "
+"package. Please check "
+"again or deactivate and "
+"reactivate your ACF PRO "
+"license."
 msgstr ""
 
 #: inc/acf/pro/admin/views/html-settings-updates.php:7
@@ -3052,9 +3625,13 @@ msgstr ""
 #: inc/acf/pro/admin/views/html-settings-updates.php:20
 #, php-format
 msgid ""
-"To unlock updates, please enter your license key below. If you don't have a "
-"licence key, please see <a href=\"%s\" target=\"_blank\">details & pricing</"
-"a>."
+"To unlock updates, "
+"please enter your "
+"license key below. If "
+"you don't have a licence "
+"key, please see <a href="
+"\"%s\" target=\"_blank"
+"\">details & pricing</a>."
 msgstr ""
 
 #: inc/acf/pro/admin/views/html-settings-updates.php:29
@@ -3082,7 +3659,10 @@ msgid "Update Plugin"
 msgstr ""
 
 #: inc/acf/pro/admin/views/html-settings-updates.php:94
-msgid "Please enter your license key above to unlock updates"
+msgid ""
+"Please enter your "
+"license key above to "
+"unlock updates"
 msgstr ""
 
 #: inc/acf/pro/admin/views/html-settings-updates.php:100
@@ -3093,37 +3673,49 @@ msgstr ""
 msgid "Upgrade Notice"
 msgstr ""
 
-#: inc/acf/pro/assets/js/acf-pro-blocks.min.js:1 inc/acf/pro/blocks.php:393
+#: inc/acf/pro/assets/js/acf-pro-blocks.min.js:1
+#: inc/acf/pro/blocks.php:393
 msgid "Switch to Edit"
 msgstr ""
 
-#: inc/acf/pro/assets/js/acf-pro-blocks.min.js:1 inc/acf/pro/blocks.php:394
+#: inc/acf/pro/assets/js/acf-pro-blocks.min.js:1
+#: inc/acf/pro/blocks.php:394
 msgid "Switch to Preview"
 msgstr ""
 
 #: inc/acf/pro/assets/js/acf-pro-field-group.js:254
 #: inc/acf/pro/assets/js/acf-pro-field-group.min.js:1
 #: inc/acf/pro/fields/class-acf-field-flexible-content.php:85
-msgid "Flexible Content requires at least 1 layout"
+msgid ""
+"Flexible Content "
+"requires at least 1 "
+"layout"
 msgstr ""
 
 #: inc/acf/pro/assets/js/acf-pro-input.js:175
 #: inc/acf/pro/assets/js/acf-pro-input.min.js:1
 #: inc/acf/pro/fields/class-acf-field-repeater.php:66
-msgid "Maximum rows reached ({max} rows)"
+msgid ""
+"Maximum rows reached "
+"({max} rows)"
 msgstr ""
 
 #: inc/acf/pro/assets/js/acf-pro-input.js:260
 #: inc/acf/pro/assets/js/acf-pro-input.min.js:1
 #: inc/acf/pro/fields/class-acf-field-repeater.php:65
 #: inc/acf/pro/fields/class-acf-field-repeater.php:661
-msgid "Minimum rows reached ({min} rows)"
+msgid ""
+"Minimum rows reached "
+"({min} rows)"
 msgstr ""
 
 #: inc/acf/pro/assets/js/acf-pro-input.js:561
 #: inc/acf/pro/assets/js/acf-pro-input.min.js:1
 #: inc/acf/pro/fields/class-acf-field-flexible-content.php:82
-msgid "{required} {label} {identifier} required (min {min})"
+msgid ""
+"{required} {label} "
+"{identifier} required "
+"(min {min})"
 msgstr ""
 
 #: inc/acf/pro/assets/js/acf-pro-input.js:562
@@ -3141,7 +3733,10 @@ msgstr[1] ""
 #: inc/acf/pro/assets/js/acf-pro-input.js:710
 #: inc/acf/pro/assets/js/acf-pro-input.min.js:1
 #: inc/acf/pro/fields/class-acf-field-flexible-content.php:78
-msgid "This field has a limit of {max} {label} {identifier}"
+msgid ""
+"This field has a limit "
+"of {max} {label} "
+"{identifier}"
 msgstr ""
 
 #: inc/acf/pro/assets/js/acf-pro-input.js:822
@@ -3149,28 +3744,37 @@ msgstr ""
 #: inc/acf/pro/fields/class-acf-field-flexible-content.php:77
 #: inc/acf/pro/fields/class-acf-field-flexible-content.php:923
 #: inc/acf/pro/fields/class-acf-field-flexible-content.php:1005
-msgid "This field requires at least {min} {label} {identifier}"
+msgid ""
+"This field requires at "
+"least {min} {label} "
+"{identifier}"
 msgstr ""
 
 #: inc/acf/pro/assets/js/acf-pro-input.js:1315
 #: inc/acf/pro/assets/js/acf-pro-input.min.js:1
 #: inc/acf/pro/fields/class-acf-field-gallery.php:74
-msgid "Maximum selection reached"
+msgid ""
+"Maximum selection reached"
 msgstr ""
 
 #: inc/acf/pro/assets/js/acf-pro-input.js:1324
 #: inc/acf/pro/assets/js/acf-pro-input.min.js:1
 #: inc/acf/pro/fields/class-acf-field-gallery.php:73
-msgid "Add Image to Gallery"
+msgid ""
+"Add Image to Gallery"
 msgstr ""
 
 #: inc/acf/pro/blocks.php:36
-msgid "Block type name is required."
+msgid ""
+"Block type name is "
+"required."
 msgstr ""
 
 #: inc/acf/pro/blocks.php:43
 #, php-format
-msgid "Block type \"%s\" is already registered."
+msgid ""
+"Block type \"%s\" is "
+"already registered."
 msgstr ""
 
 #: inc/acf/pro/blocks.php:397
@@ -3184,7 +3788,9 @@ msgid "Clone"
 msgstr ""
 
 #: inc/acf/pro/fields/class-acf-field-clone.php:812
-msgid "Select one or more fields you wish to clone"
+msgid ""
+"Select one or more "
+"fields you wish to clone"
 msgstr ""
 
 #: inc/acf/pro/fields/class-acf-field-clone.php:829
@@ -3192,20 +3798,30 @@ msgid "Display"
 msgstr ""
 
 #: inc/acf/pro/fields/class-acf-field-clone.php:830
-msgid "Specify the style used to render the clone field"
+msgid ""
+"Specify the style used "
+"to render the clone field"
 msgstr ""
 
 #: inc/acf/pro/fields/class-acf-field-clone.php:835
-msgid "Group (displays selected fields in a group within this field)"
+msgid ""
+"Group (displays selected "
+"fields in a group within "
+"this field)"
 msgstr ""
 
 #: inc/acf/pro/fields/class-acf-field-clone.php:836
-msgid "Seamless (replaces this field with selected fields)"
+msgid ""
+"Seamless (replaces this "
+"field with selected "
+"fields)"
 msgstr ""
 
 #: inc/acf/pro/fields/class-acf-field-clone.php:857
 #, php-format
-msgid "Labels will be displayed as %s"
+msgid ""
+"Labels will be displayed "
+"as %s"
 msgstr ""
 
 #: inc/acf/pro/fields/class-acf-field-clone.php:860
@@ -3214,7 +3830,9 @@ msgstr ""
 
 #: inc/acf/pro/fields/class-acf-field-clone.php:871
 #, php-format
-msgid "Values will be saved as %s"
+msgid ""
+"Values will be saved as "
+"%s"
 msgstr ""
 
 #: inc/acf/pro/fields/class-acf-field-clone.php:874
@@ -3231,7 +3849,9 @@ msgstr ""
 
 #: inc/acf/pro/fields/class-acf-field-clone.php:1035
 #, php-format
-msgid "All fields from %s field group"
+msgid ""
+"All fields from %s field "
+"group"
 msgstr ""
 
 #: inc/acf/pro/fields/class-acf-field-flexible-content.php:31
@@ -3245,12 +3865,18 @@ msgid "layouts"
 msgstr ""
 
 #: inc/acf/pro/fields/class-acf-field-flexible-content.php:81
-msgid "{available} {label} {identifier} available (max {max})"
+msgid ""
+"{available} {label} "
+"{identifier} available "
+"(max {max})"
 msgstr ""
 
 #: inc/acf/pro/fields/class-acf-field-flexible-content.php:287
 #, php-format
-msgid "Click the \"%s\" button below to start creating your layout"
+msgid ""
+"Click the \"%s\" button "
+"below to start creating "
+"your layout"
 msgstr ""
 
 #: inc/acf/pro/fields/class-acf-field-flexible-content.php:413
@@ -3328,11 +3954,13 @@ msgid "Bulk actions"
 msgstr ""
 
 #: inc/acf/pro/fields/class-acf-field-gallery.php:492
-msgid "Sort by date uploaded"
+msgid ""
+"Sort by date uploaded"
 msgstr ""
 
 #: inc/acf/pro/fields/class-acf-field-gallery.php:493
-msgid "Sort by date modified"
+msgid ""
+"Sort by date modified"
 msgstr ""
 
 #: inc/acf/pro/fields/class-acf-field-gallery.php:494
@@ -3340,7 +3968,8 @@ msgid "Sort by title"
 msgstr ""
 
 #: inc/acf/pro/fields/class-acf-field-gallery.php:495
-msgid "Reverse current order"
+msgid ""
+"Reverse current order"
 msgstr ""
 
 #: inc/acf/pro/fields/class-acf-field-gallery.php:507
@@ -3352,7 +3981,9 @@ msgid "Insert"
 msgstr ""
 
 #: inc/acf/pro/fields/class-acf-field-gallery.php:581
-msgid "Specify where new attachments are added"
+msgid ""
+"Specify where new "
+"attachments are added"
 msgstr ""
 
 #: inc/acf/pro/fields/class-acf-field-gallery.php:585
@@ -3360,7 +3991,8 @@ msgid "Append to the end"
 msgstr ""
 
 #: inc/acf/pro/fields/class-acf-field-gallery.php:586
-msgid "Prepend to the beginning"
+msgid ""
+"Prepend to the beginning"
 msgstr ""
 
 #: inc/acf/pro/fields/class-acf-field-gallery.php:605
@@ -3384,7 +4016,10 @@ msgid "Collapsed"
 msgstr ""
 
 #: inc/acf/pro/fields/class-acf-field-repeater.php:418
-msgid "Select a sub field to show when row is collapsed"
+msgid ""
+"Select a sub field to "
+"show when row is "
+"collapsed"
 msgstr ""
 
 #: inc/acf/pro/fields/class-acf-field-repeater.php:428
@@ -3396,7 +4031,8 @@ msgid "Maximum Rows"
 msgstr ""
 
 #: inc/acf/pro/locations/class-acf-location-options-page.php:79
-msgid "No options pages exist"
+msgid ""
+"No options pages exist"
 msgstr ""
 
 #: inc/acf/pro/options-page.php:51
@@ -3410,8 +4046,13 @@ msgstr ""
 #: inc/acf/pro/updates.php:97
 #, php-format
 msgid ""
-"To enable updates, please enter your license key on the <a href=\"%s"
-"\">Updates</a> page. If you don't have a licence key, please see <a href=\"%s"
+"To enable updates, "
+"please enter your "
+"license key on the <a "
+"href=\"%s\">Updates</a> "
+"page. If you don't have "
+"a licence key, please "
+"see <a href=\"%s"
 "\">details & pricing</a>."
 msgstr ""
 
@@ -3419,102 +4060,38 @@ msgstr ""
 msgid "Add a menu"
 msgstr ""
 
-#: inc/custom-comments.php:102 node_modules/undescores-for-npm/comments.php:78
-msgid "Comments are closed."
-msgstr ""
-
-#: inc/custom-fields-cats.php:15
-msgid "Name of the cat."
-msgstr "Namn på katten."
-
-#: inc/custom-fields-cats.php:31
-msgid "Age"
-msgstr "Ålder"
-
-#: inc/custom-fields-cats.php:34
-#, fuzzy
-#| msgid "Name of the cat."
-msgid "Birthdate of the cat."
-msgstr "Namn på katten."
-
-#: inc/custom-fields-cats.php:48
-#, fuzzy
-#| msgid "Color:"
-msgid "Color"
-msgstr "Färg:"
-
-#: inc/custom-fields-cats.php:51
-#, fuzzy
-#| msgid "Name of the cat."
-msgid "Color of the cat."
-msgstr "Namn på katten."
-
-#: inc/custom-fields-cats.php:67
-#, fuzzy
-#| msgid "Weight:"
-msgid "Weight"
-msgstr "Vikt:"
-
-#: inc/custom-fields-cats.php:70
-msgid "Cats weight in kg."
-msgstr "Kattens vikt i kg."
-
-#: inc/custom-fields-cats.php:88
-#, fuzzy
-#| msgid "Adopted:"
-msgid "Adopted"
-msgstr "Adopterad:"
-
-#: inc/custom-fields-cats.php:91
+#: inc/custom-comments.php:102
+#: node_modules/undescores-for-npm/comments.php:78
 msgid ""
-"Is the cat adopted? Yes/No\n"
-"    If yes pick the date under here."
+"Comments are closed."
 msgstr ""
-"Är katten adopterad? Ja/Nej\n"
-"Om ja välj vilket datum här under."
-
-#: inc/custom-fields-cats.php:114
-#, fuzzy
-#| msgid "Latest adopted cats"
-msgid "Date adopted"
-msgstr "Senast adopterade katter"
-
-#: inc/custom-fields-cats.php:117
-msgid "Pick the date when the cat was adopted."
-msgstr "Välj datum katten blev adopterad"
-
-#: inc/custom-fields-cats.php:142
-msgid "Something to share about the cat."
-msgstr "Någonting att dela med dig om katten."
-
-#: inc/custom-fields-cats.php:161
-#, fuzzy
-#| msgid "Name of the cat."
-msgid "A photo on the cat."
-msgstr "Namn på katten."
 
 #: inc/custom-header.php:54
-msgid "Default Header Image"
+msgid ""
+"Default Header Image"
 msgstr ""
 
-#: inc/custom-post-about.php:10 inc/custom-post-about.php:11
-#: inc/custom-post-about.php:12 inc/custom-post-about.php:35
+#: inc/custom-post-about.php:10
+#: inc/custom-post-about.php:11
+#: inc/custom-post-about.php:12
+#: inc/custom-post-about.php:35
 #: inc/custom-post-about.php:45
 msgid "About us"
-msgstr "Om oss"
+msgstr ""
 
 #: inc/custom-post-about.php:13
 msgid "All About us"
-msgstr "Alla posts Om oss"
+msgstr ""
 
-#: inc/custom-post-about.php:14 inc/custom-post-cats.php:14
+#: inc/custom-post-about.php:14
+#: inc/custom-post-cats.php:14
 #: inc/custom-post-faqs.php:14
 msgid "Add new"
-msgstr "Lägg till ny"
+msgstr ""
 
 #: inc/custom-post-about.php:15
 msgid "Add new About us"
-msgstr "Lägg till ny Om oss"
+msgstr ""
 
 #: inc/custom-post-about.php:16
 msgid "Edit About us"
@@ -3524,7 +4101,8 @@ msgstr ""
 msgid "New About us"
 msgstr ""
 
-#: inc/custom-post-about.php:18 inc/custom-post-about.php:19
+#: inc/custom-post-about.php:18
+#: inc/custom-post-about.php:19
 msgid "View About us"
 msgstr ""
 
@@ -3537,27 +4115,38 @@ msgid "No About us found"
 msgstr ""
 
 #: inc/custom-post-about.php:22
-msgid "No About us found in trash"
+msgid ""
+"No About us found in "
+"trash"
 msgstr ""
 
-#: inc/custom-post-about.php:23 inc/custom-post-about.php:41
+#: inc/custom-post-about.php:23
+#: inc/custom-post-about.php:41
 msgid "Parent About us:"
 msgstr ""
 
 #: inc/custom-post-about.php:24
-msgid "Featured image for this About us"
+msgid ""
+"Featured image for this "
+"About us"
 msgstr ""
 
 #: inc/custom-post-about.php:25
-msgid "Set featured image for this About us"
+msgid ""
+"Set featured image for "
+"this About us"
 msgstr ""
 
 #: inc/custom-post-about.php:26
-msgid "Remove featured image for this About us"
+msgid ""
+"Remove featured image "
+"for this About us"
 msgstr ""
 
 #: inc/custom-post-about.php:27
-msgid "Use as featured image for this About us"
+msgid ""
+"Use as featured image "
+"for this About us"
 msgstr ""
 
 #: inc/custom-post-about.php:28
@@ -3565,19 +4154,23 @@ msgid "About us archives"
 msgstr ""
 
 #: inc/custom-post-about.php:29
-msgid "Insert into About us"
+msgid ""
+"Insert into About us"
 msgstr ""
 
 #: inc/custom-post-about.php:30
-msgid "Upload to this About us"
+msgid ""
+"Upload to this About us"
 msgstr ""
 
 #: inc/custom-post-about.php:31
-msgid "Filter About us list"
+msgid ""
+"Filter About us list"
 msgstr ""
 
 #: inc/custom-post-about.php:32
-msgid "About us list navigation"
+msgid ""
+"About us list navigation"
 msgstr ""
 
 #: inc/custom-post-about.php:33
@@ -3593,11 +4186,15 @@ msgid "About us published"
 msgstr ""
 
 #: inc/custom-post-about.php:37
-msgid "About us published privately."
+msgid ""
+"About us published "
+"privately."
 msgstr ""
 
 #: inc/custom-post-about.php:38
-msgid "About us reverted to draft."
+msgid ""
+"About us reverted to "
+"draft."
 msgstr ""
 
 #: inc/custom-post-about.php:39
@@ -3608,21 +4205,24 @@ msgstr ""
 msgid "About us updated."
 msgstr ""
 
-#: inc/custom-post-cats.php:10 inc/custom-post-cats.php:45
+#: inc/custom-post-cats.php:10
+#: inc/custom-post-cats.php:45
 msgid "cats"
 msgstr ""
 
-#: inc/custom-post-cats.php:11 inc/custom-post-cats.php:35
+#: inc/custom-post-cats.php:11
+#: inc/custom-post-cats.php:35
 msgid "cat"
 msgstr ""
 
-#: inc/custom-post-cats.php:12 inc/custom-post-cats.php:15
+#: inc/custom-post-cats.php:12
+#: inc/custom-post-cats.php:15
 msgid "Add new cat"
-msgstr "Lägg till ny katt"
+msgstr ""
 
 #: inc/custom-post-cats.php:13
 msgid "All cats"
-msgstr "Alla katter"
+msgstr ""
 
 #: inc/custom-post-cats.php:16
 msgid "Edit cat"
@@ -3649,27 +4249,37 @@ msgid "No cats found"
 msgstr ""
 
 #: inc/custom-post-cats.php:22
-msgid "No cats found in trash"
+msgid ""
+"No cats found in trash"
 msgstr ""
 
-#: inc/custom-post-cats.php:23 inc/custom-post-cats.php:41
+#: inc/custom-post-cats.php:23
+#: inc/custom-post-cats.php:41
 msgid "Parent cat:"
 msgstr ""
 
 #: inc/custom-post-cats.php:24
-msgid "Featured image for this cat"
+msgid ""
+"Featured image for this "
+"cat"
 msgstr ""
 
 #: inc/custom-post-cats.php:25
-msgid "Set featured image for this cat"
+msgid ""
+"Set featured image for "
+"this cat"
 msgstr ""
 
 #: inc/custom-post-cats.php:26
-msgid "Remove featured image for this cat"
+msgid ""
+"Remove featured image "
+"for this cat"
 msgstr ""
 
 #: inc/custom-post-cats.php:27
-msgid "Use as featured image for this cat"
+msgid ""
+"Use as featured image "
+"for this cat"
 msgstr ""
 
 #: inc/custom-post-cats.php:28
@@ -3689,7 +4299,8 @@ msgid "Filter cats list"
 msgstr ""
 
 #: inc/custom-post-cats.php:32
-msgid "cats list navigation"
+msgid ""
+"cats list navigation"
 msgstr ""
 
 #: inc/custom-post-cats.php:33
@@ -3705,11 +4316,13 @@ msgid "cat published"
 msgstr ""
 
 #: inc/custom-post-cats.php:37
-msgid "cat published privately."
+msgid ""
+"cat published privately."
 msgstr ""
 
 #: inc/custom-post-cats.php:38
-msgid "cat reverted to draft."
+msgid ""
+"cat reverted to draft."
 msgstr ""
 
 #: inc/custom-post-cats.php:39
@@ -3720,38 +4333,40 @@ msgstr ""
 msgid "cat updated."
 msgstr ""
 
-#: inc/custom-post-faqs.php:10 inc/custom-post-faqs.php:12
+#: inc/custom-post-faqs.php:10
+#: inc/custom-post-faqs.php:12
 #: inc/custom-post-faqs.php:45
 msgid "FAQs"
 msgstr ""
 
-#: inc/custom-post-faqs.php:11 inc/custom-post-faqs.php:35
+#: inc/custom-post-faqs.php:11
+#: inc/custom-post-faqs.php:35
 msgid "FAQ"
 msgstr ""
 
 #: inc/custom-post-faqs.php:13
 msgid "All FAQs"
-msgstr "Alla FAQs"
+msgstr ""
 
 #: inc/custom-post-faqs.php:15
 msgid "Add new FAQ"
-msgstr "Lägg till ny FAQ"
+msgstr ""
 
 #: inc/custom-post-faqs.php:16
 msgid "Edit FAQ"
-msgstr "Redigera FAQ"
+msgstr ""
 
 #: inc/custom-post-faqs.php:17
 msgid "New FAQ"
-msgstr "Ny Faq"
+msgstr ""
 
 #: inc/custom-post-faqs.php:18
 msgid "View FAQ"
-msgstr "Visa FAQ"
+msgstr ""
 
 #: inc/custom-post-faqs.php:19
 msgid "View FAQs"
-msgstr "Visa FAQs"
+msgstr ""
 
 #: inc/custom-post-faqs.php:20
 msgid "Search FAQs"
@@ -3762,27 +4377,37 @@ msgid "No FAQs found"
 msgstr ""
 
 #: inc/custom-post-faqs.php:22
-msgid "No FAQs found in trash"
+msgid ""
+"No FAQs found in trash"
 msgstr ""
 
-#: inc/custom-post-faqs.php:23 inc/custom-post-faqs.php:41
+#: inc/custom-post-faqs.php:23
+#: inc/custom-post-faqs.php:41
 msgid "Parent FAQ:"
 msgstr ""
 
 #: inc/custom-post-faqs.php:24
-msgid "Featured image for this FAQ"
+msgid ""
+"Featured image for this "
+"FAQ"
 msgstr ""
 
 #: inc/custom-post-faqs.php:25
-msgid "Set featured image for this FAQ"
+msgid ""
+"Set featured image for "
+"this FAQ"
 msgstr ""
 
 #: inc/custom-post-faqs.php:26
-msgid "Remove featured image for this FAQ"
+msgid ""
+"Remove featured image "
+"for this FAQ"
 msgstr ""
 
 #: inc/custom-post-faqs.php:27
-msgid "Use as featured image for this FAQ"
+msgid ""
+"Use as featured image "
+"for this FAQ"
 msgstr ""
 
 #: inc/custom-post-faqs.php:28
@@ -3802,7 +4427,8 @@ msgid "Filter FAQs list"
 msgstr ""
 
 #: inc/custom-post-faqs.php:32
-msgid "FAQs list navigation"
+msgid ""
+"FAQs list navigation"
 msgstr ""
 
 #: inc/custom-post-faqs.php:33
@@ -3818,11 +4444,13 @@ msgid "FAQ published"
 msgstr ""
 
 #: inc/custom-post-faqs.php:37
-msgid "FAQ published privately."
+msgid ""
+"FAQ published privately."
 msgstr ""
 
 #: inc/custom-post-faqs.php:38
-msgid "FAQ reverted to draft."
+msgid ""
+"FAQ reverted to draft."
 msgstr ""
 
 #: inc/custom-post-faqs.php:39
@@ -3833,10 +4461,11 @@ msgstr ""
 msgid "FAQ updated."
 msgstr ""
 
-#: inc/custom-taxonomy-citys.php:10 inc/custom-taxonomy-citys.php:12
+#: inc/custom-taxonomy-citys.php:10
+#: inc/custom-taxonomy-citys.php:12
 #: inc/custom-taxonomy-citys.php:33
 msgid "Citys"
-msgstr "Städer"
+msgstr ""
 
 #: inc/custom-taxonomy-citys.php:11
 msgid "City"
@@ -3844,7 +4473,7 @@ msgstr ""
 
 #: inc/custom-taxonomy-citys.php:13
 msgid "All Citys"
-msgstr "Alla Städer"
+msgstr ""
 
 #: inc/custom-taxonomy-citys.php:14
 msgid "Edit City"
@@ -3860,7 +4489,7 @@ msgstr ""
 
 #: inc/custom-taxonomy-citys.php:17
 msgid "Add new City"
-msgstr "Lägg till ny Stad"
+msgstr ""
 
 #: inc/custom-taxonomy-citys.php:18
 msgid "New City name"
@@ -3883,7 +4512,9 @@ msgid "Popular Citys"
 msgstr ""
 
 #: inc/custom-taxonomy-citys.php:23
-msgid "Separate Citys with commas"
+msgid ""
+"Separate Citys with "
+"commas"
 msgstr ""
 
 #: inc/custom-taxonomy-citys.php:24
@@ -3891,7 +4522,9 @@ msgid "Add or remove Citys"
 msgstr ""
 
 #: inc/custom-taxonomy-citys.php:25
-msgid "Choose from the most used Citys"
+msgid ""
+"Choose from the most "
+"used Citys"
 msgstr ""
 
 #: inc/custom-taxonomy-citys.php:26
@@ -3903,49 +4536,51 @@ msgid "No Citys"
 msgstr ""
 
 #: inc/custom-taxonomy-citys.php:28
-msgid "Citys list navigation"
+msgid ""
+"Citys list navigation"
 msgstr ""
 
 #: inc/custom-taxonomy-citys.php:29
 msgid "Citys list"
 msgstr ""
 
-#: inc/custom-taxonomy-genders.php:10 inc/custom-taxonomy-genders.php:12
+#: inc/custom-taxonomy-genders.php:10
+#: inc/custom-taxonomy-genders.php:12
 #: inc/custom-taxonomy-genders.php:33
 msgid "Genders"
-msgstr "Kön"
+msgstr ""
 
 #: inc/custom-taxonomy-genders.php:11
 msgid "Gender"
-msgstr "Kön"
+msgstr ""
 
 #: inc/custom-taxonomy-genders.php:13
 msgid "All Genders"
-msgstr "Alla Kön"
+msgstr ""
 
 #: inc/custom-taxonomy-genders.php:14
 msgid "Edit Gender"
-msgstr "Redigera Kön"
+msgstr ""
 
 #: inc/custom-taxonomy-genders.php:15
 msgid "View Gender"
-msgstr "Visa Kön"
+msgstr ""
 
 #: inc/custom-taxonomy-genders.php:16
 msgid "Update Gender name"
-msgstr "Uppdatera Köns namn"
+msgstr ""
 
 #: inc/custom-taxonomy-genders.php:17
 msgid "Add new Gender"
-msgstr "Lägg till nytt Kön"
+msgstr ""
 
 #: inc/custom-taxonomy-genders.php:18
 msgid "New Gender name"
-msgstr "Nytt Köns namn"
+msgstr ""
 
 #: inc/custom-taxonomy-genders.php:19
 msgid "Parent Gender"
-msgstr "Huvud Kön"
+msgstr ""
 
 #: inc/custom-taxonomy-genders.php:20
 msgid "Parent Gender:"
@@ -3960,15 +4595,20 @@ msgid "Popular Genders"
 msgstr ""
 
 #: inc/custom-taxonomy-genders.php:23
-msgid "Separate Genders with commas"
+msgid ""
+"Separate Genders with "
+"commas"
 msgstr ""
 
 #: inc/custom-taxonomy-genders.php:24
-msgid "Add or remove Genders"
+msgid ""
+"Add or remove Genders"
 msgstr ""
 
 #: inc/custom-taxonomy-genders.php:25
-msgid "Choose from the most used Genders"
+msgid ""
+"Choose from the most "
+"used Genders"
 msgstr ""
 
 #: inc/custom-taxonomy-genders.php:26
@@ -3980,7 +4620,8 @@ msgid "No Genders"
 msgstr ""
 
 #: inc/custom-taxonomy-genders.php:28
-msgid "Genders list navigation"
+msgid ""
+"Genders list navigation"
 msgstr ""
 
 #: inc/custom-taxonomy-genders.php:29
@@ -3988,11 +4629,14 @@ msgid "Genders list"
 msgstr ""
 
 #: inc/customizer.php:42
-msgid "Theme Layout Settings"
+msgid ""
+"Theme Layout Settings"
 msgstr ""
 
 #: inc/customizer.php:44
-msgid "Container width and sidebar defaults"
+msgid ""
+"Container width and "
+"sidebar defaults"
 msgstr ""
 
 #: inc/customizer.php:84
@@ -4000,15 +4644,20 @@ msgid "Container Width"
 msgstr ""
 
 #: inc/customizer.php:85
-msgid "Choose between Bootstrap's container and container-fluid"
+msgid ""
+"Choose between "
+"Bootstrap's container "
+"and container-fluid"
 msgstr ""
 
 #: inc/customizer.php:90
-msgid "Fixed width container"
+msgid ""
+"Fixed width container"
 msgstr ""
 
 #: inc/customizer.php:91
-msgid "Full width container"
+msgid ""
+"Full width container"
 msgstr ""
 
 #: inc/customizer.php:113
@@ -4017,8 +4666,12 @@ msgstr ""
 
 #: inc/customizer.php:115
 msgid ""
-"Set sidebar's default position. Can either be: right, left, both or none. "
-"Note: this can be overridden on individual pages."
+"Set sidebar's default "
+"position. Can either be: "
+"right, left, both or "
+"none. Note: this can be "
+"overridden on individual "
+"pages."
 msgstr ""
 
 #: inc/customizer.php:123
@@ -4030,7 +4683,8 @@ msgid "Left sidebar"
 msgstr ""
 
 #: inc/customizer.php:125
-msgid "Left & Right sidebars"
+msgid ""
+"Left & Right sidebars"
 msgstr ""
 
 #: inc/customizer.php:126
@@ -4042,31 +4696,43 @@ msgid "Post navigation"
 msgstr ""
 
 #: inc/extras.php:100
-msgctxt "Previous post link"
-msgid "<i class=\"fa fa-angle-left\"></i>&nbsp;%title"
+msgctxt ""
+"Previous post link"
+msgid ""
+"<i class=\"fa fa-angle-"
+"left\"></i>&nbsp;%title"
 msgstr ""
 
 #: inc/extras.php:103
 msgctxt "Next post link"
-msgid "%title&nbsp;<i class=\"fa fa-angle-right\"></i>"
+msgid ""
+"%title&nbsp;<i class="
+"\"fa fa-angle-right\"></"
+"i>"
 msgstr ""
 
 #: inc/hooks.php:30
-msgid "http://wordpress.org/"
+msgid ""
+"http://wordpress.org/"
 msgstr ""
 
-#: inc/hooks.php:33 node_modules/undescores-for-npm/footer.php:18
+#: inc/hooks.php:33
+#: node_modules/undescores-for-npm/footer.php:18
 #, php-format
-msgid "Proudly powered by %s"
+msgid ""
+"Proudly powered by %s"
 msgstr ""
 
-#: inc/hooks.php:38 node_modules/undescores-for-npm/footer.php:20
+#: inc/hooks.php:38
+#: node_modules/undescores-for-npm/footer.php:20
 #, php-format
-msgid "Theme: %1$s by %2$s."
+msgid ""
+"Theme: %1$s by %2$s."
 msgstr ""
 
 #: inc/hooks.php:40
-msgid "http://understrap.com"
+msgid ""
+"http://understrap.com"
 msgstr ""
 
 #: inc/hooks.php:44
@@ -4086,11 +4752,12 @@ msgstr ""
 msgid "Posts navigation"
 msgstr ""
 
-#: inc/setup.php:51 node_modules/undescores-for-npm/header.php:44
+#: inc/setup.php:49
+#: node_modules/undescores-for-npm/header.php:44
 msgid "Primary Menu"
 msgstr ""
 
-#: inc/setup.php:153
+#: inc/setup.php:151
 msgid "Read More..."
 msgstr ""
 
@@ -4109,7 +4776,8 @@ msgctxt "post author"
 msgid "Posted by"
 msgstr ""
 
-#: inc/template-tags.php:59 inc/template-tags.php:65
+#: inc/template-tags.php:59
+#: inc/template-tags.php:65
 #: node_modules/undescores-for-npm/inc/template-tags.php:50
 #: node_modules/undescores-for-npm/inc/template-tags.php:56
 msgid ", "
@@ -4149,7 +4817,8 @@ msgid "Right Sidebar"
 msgstr ""
 
 #: inc/widgets.php:105
-msgid "Right sidebar widget area"
+msgid ""
+"Right sidebar widget area"
 msgstr ""
 
 #: inc/widgets.php:115
@@ -4157,7 +4826,8 @@ msgid "Left Sidebar"
 msgstr ""
 
 #: inc/widgets.php:117
-msgid "Left sidebar widget area"
+msgid ""
+"Left sidebar widget area"
 msgstr ""
 
 #: inc/widgets.php:127
@@ -4165,7 +4835,10 @@ msgid "Hero Slider"
 msgstr ""
 
 #: inc/widgets.php:129
-msgid "Hero slider area. Place two or more widgets here and they will slide!"
+msgid ""
+"Hero slider area. Place "
+"two or more widgets here "
+"and they will slide!"
 msgstr ""
 
 #: inc/widgets.php:139
@@ -4173,7 +4846,10 @@ msgid "Hero Canvas"
 msgstr ""
 
 #: inc/widgets.php:141
-msgid "Full size canvas hero area for Bootstrap and other custom HTML markup"
+msgid ""
+"Full size canvas hero "
+"area for Bootstrap and "
+"other custom HTML markup"
 msgstr ""
 
 #: inc/widgets.php:151
@@ -4181,7 +4857,9 @@ msgid "Top Full"
 msgstr ""
 
 #: inc/widgets.php:153
-msgid "Full top widget with dynamic grid"
+msgid ""
+"Full top widget with "
+"dynamic grid"
 msgstr ""
 
 #: inc/widgets.php:163
@@ -4189,26 +4867,32 @@ msgid "Footer Full"
 msgstr ""
 
 #: inc/widgets.php:165
-msgid "Full sized footer widget with dynamic grid"
+msgid ""
+"Full sized footer widget "
+"with dynamic grid"
 msgstr ""
 
 #: loop-templates/content-blog-posts.php:8
 #: loop-templates/content-single-cat.php:22
 #, php-format
-msgid "Updated at: %1$s at  %2$s"
-msgstr "Uppdaterad %1$s  %2$s"
+msgid ""
+"Updated at: %1$s at  %2$s"
+msgstr ""
 
-#: loop-templates/content-cats.php:15 loop-templates/content-single-cat.php:19
+#: loop-templates/content-cats.php:15
+#: loop-templates/content-single-cat.php:19
 msgid "Located at:"
-msgstr "Finns i:"
+msgstr ""
 
-#: loop-templates/content-cats.php:16 loop-templates/content-single-cat.php:18
+#: loop-templates/content-cats.php:16
+#: loop-templates/content-single-cat.php:18
 msgid "Gender:"
-msgstr "Kön:"
+msgstr ""
 
-#: loop-templates/content-cats.php:17 loop-templates/content-single-cat.php:20
+#: loop-templates/content-cats.php:17
+#: loop-templates/content-single-cat.php:20
 msgid "Adopted:"
-msgstr "Adopterad:"
+msgstr ""
 
 #: loop-templates/content-none.php:18
 #: node_modules/undescores-for-npm/template-parts/content-none.php:14
@@ -4219,24 +4903,33 @@ msgstr ""
 #: node_modules/undescores-for-npm/template-parts/content-none.php:21
 #, php-format
 msgid ""
-"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+"Ready to publish your "
+"first post? <a href="
+"\"%1$s\">Get started "
+"here</a>."
 msgstr ""
 
 #: loop-templates/content-none.php:38
 #: node_modules/undescores-for-npm/template-parts/content-none.php:25
 msgid ""
-"Sorry, but nothing matched your search terms. Please try again with some "
-"different keywords."
+"Sorry, but nothing "
+"matched your search "
+"terms. Please try again "
+"with some different "
+"keywords."
 msgstr ""
 
 #: loop-templates/content-none.php:46
 #: node_modules/undescores-for-npm/template-parts/content-none.php:31
 msgid ""
-"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"It seems we can&rsquo;t "
+"find what you&rsquo;re "
+"looking for. Perhaps "
 "searching can help."
 msgstr ""
 
-#: loop-templates/content-page.php:29 loop-templates/content-single.php:35
+#: loop-templates/content-page.php:29
+#: loop-templates/content-single.php:35
 #: loop-templates/content.php:42
 #: node_modules/undescores-for-npm/template-parts/content-page.php:22
 #: node_modules/undescores-for-npm/template-parts/content.php:38
@@ -4245,19 +4938,19 @@ msgstr ""
 
 #: loop-templates/content-single-cat.php:14
 msgid "Name:"
-msgstr "Namn:"
+msgstr ""
 
 #: loop-templates/content-single-cat.php:15
 msgid "Birthdate:"
-msgstr "Född:"
+msgstr ""
 
 #: loop-templates/content-single-cat.php:16
 msgid "Color:"
-msgstr "Färg:"
+msgstr ""
 
 #: loop-templates/content-single-cat.php:17
 msgid "Weight:"
-msgstr "Vikt:"
+msgstr ""
 
 #: loop-templates/content-single-cat.php:20
 msgid "at"
@@ -4265,20 +4958,24 @@ msgstr ""
 
 #: loop-templates/content-single-cat.php:21
 msgid "Description:"
-msgstr "Beskrivning:"
+msgstr ""
 
 #: node_modules/gulp/node_modules/yargs-parser/index.js:301
 #: node_modules/sass-graph/node_modules/yargs-parser/index.js:301
 #: node_modules/yargs-parser/index.js:301
 #, javascript-format
-msgid "Not enough arguments following: %s"
+msgid ""
+"Not enough arguments "
+"following: %s"
 msgstr ""
 
 #: node_modules/gulp/node_modules/yargs-parser/index.js:449
 #: node_modules/sass-graph/node_modules/yargs-parser/index.js:449
 #: node_modules/yargs-parser/index.js:449
 #, javascript-format
-msgid "Invalid JSON config file: %s"
+msgid ""
+"Invalid JSON config "
+"file: %s"
 msgstr ""
 
 #: node_modules/gulp/node_modules/yargs/lib/usage.js:169
@@ -4324,7 +5021,8 @@ msgstr ""
 #: node_modules/localtunnel/node_modules/yargs/lib/usage.js:231
 #: node_modules/sass-graph/node_modules/yargs/lib/usage.js:243
 #: node_modules/sass-graph/node_modules/yargs/lib/usage.js:244
-#: node_modules/yargs/lib/usage.js:227 node_modules/yargs/lib/usage.js:228
+#: node_modules/yargs/lib/usage.js:227
+#: node_modules/yargs/lib/usage.js:228
 msgid "string"
 msgstr ""
 
@@ -4379,7 +5077,10 @@ msgstr ""
 #: node_modules/yargs/lib/validation.js:22
 #: node_modules/yargs/lib/validation.js:37
 #, javascript-format
-msgid "Not enough non-option arguments: got %s, need at least %s"
+msgid ""
+"Not enough non-option "
+"arguments: got %s, need "
+"at least %s"
 msgstr ""
 
 #: node_modules/gulp/node_modules/yargs/lib/validation.js:37
@@ -4387,7 +5088,10 @@ msgstr ""
 #: node_modules/sass-graph/node_modules/yargs/lib/validation.js:37
 #: node_modules/yargs/lib/validation.js:26
 #, javascript-format
-msgid "Too many non-option arguments: got %s, maximum of %s"
+msgid ""
+"Too many non-option "
+"arguments: got %s, "
+"maximum of %s"
 msgstr ""
 
 #: node_modules/gulp/node_modules/yargs/lib/validation.js:185
@@ -4402,7 +5106,9 @@ msgstr ""
 #: node_modules/sass-graph/node_modules/yargs/lib/validation.js:188
 #: node_modules/yargs/lib/validation.js:174
 #, javascript-format
-msgid "Argument: %s, Given: %s, Choices: %s"
+msgid ""
+"Argument: %s, Given: %s, "
+"Choices: %s"
 msgstr ""
 
 #: node_modules/gulp/node_modules/yargs/lib/validation.js:218
@@ -4410,21 +5116,25 @@ msgstr ""
 #: node_modules/sass-graph/node_modules/yargs/lib/validation.js:218
 #: node_modules/yargs/lib/validation.js:200
 #, javascript-format
-msgid "Argument check failed: %s"
+msgid ""
+"Argument check failed: %s"
 msgstr ""
 
 #: node_modules/gulp/node_modules/yargs/lib/validation.js:283
 #: node_modules/localtunnel/node_modules/yargs/lib/validation.js:276
 #: node_modules/sass-graph/node_modules/yargs/lib/validation.js:283
 #: node_modules/yargs/lib/validation.js:270
-msgid "Implications failed:"
+msgid ""
+"Implications failed:"
 msgstr ""
 
 #: node_modules/gulp/node_modules/yargs/lib/validation.js:313
 #: node_modules/localtunnel/node_modules/yargs/lib/validation.js:305
 #: node_modules/sass-graph/node_modules/yargs/lib/validation.js:313
 #, javascript-format
-msgid "Arguments %s and %s are mutually exclusive"
+msgid ""
+"Arguments %s and %s are "
+"mutually exclusive"
 msgstr ""
 
 #: node_modules/gulp/node_modules/yargs/lib/validation.js:332
@@ -4438,8 +5148,12 @@ msgstr ""
 #: node_modules/undescores-for-npm/comments.php:31
 #, php-format
 msgctxt "comments title"
-msgid "One thought on &ldquo;%2$s&rdquo;"
-msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgid ""
+"One thought on &ldquo;"
+"%2$s&rdquo;"
+msgid_plural ""
+"%1$s thoughts on &ldquo;"
+"%2$s&rdquo;"
 msgstr[0] ""
 msgstr[1] ""
 
@@ -4454,7 +5168,8 @@ msgid "Newer Comments"
 msgstr ""
 
 #: node_modules/undescores-for-npm/footer.php:18
-msgid "https://wordpress.org/"
+msgid ""
+"https://wordpress.org/"
 msgstr ""
 
 #: node_modules/undescores-for-npm/functions.php:47
@@ -4493,28 +5208,38 @@ msgstr ""
 
 #: node_modules/undescores-for-npm/inc/template-tags.php:65
 #, php-format
-msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgid ""
+"Leave a Comment<span "
+"class=\"screen-reader-"
+"text\"> on %s</span>"
 msgstr ""
 
-#: node_modules/undescores-for-npm/search.php:19 search.php:36
+#: node_modules/undescores-for-npm/search.php:19
+#: search.php:36
 #, php-format
-msgid "Search Results for: %s"
+msgid ""
+"Search Results for: %s"
 msgstr ""
 
 #: node_modules/undescores-for-npm/template-parts/content.php:33
 #, php-format
-msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgid ""
+"Continue reading %s "
+"<span class=\"meta-nav"
+"\">&rarr;</span>"
 msgstr ""
 
 #: searchform.php:16
 msgid "Search &hellip;"
 msgstr ""
 
-#: sidebar-templates/sidebar-hero.php:28 woocommerce/myaccount/orders.php:89
+#: sidebar-templates/sidebar-hero.php:28
+#: woocommerce/myaccount/orders.php:89
 msgid "Previous"
 msgstr ""
 
-#: sidebar-templates/sidebar-hero.php:36 woocommerce/myaccount/orders.php:93
+#: sidebar-templates/sidebar-hero.php:36
+#: woocommerce/myaccount/orders.php:93
 msgid "Next"
 msgstr ""
 
@@ -4522,41 +5247,49 @@ msgstr ""
 msgid "Return to shop"
 msgstr ""
 
-#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:77
+#: woocommerce/cart/cart.php:30
+#: woocommerce/cart/cart.php:77
 #: woocommerce/checkout/form-pay.php:27
 msgid "Product"
 msgstr ""
 
-#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:97
+#: woocommerce/cart/cart.php:31
+#: woocommerce/cart/cart.php:97
 msgid "Price"
 msgstr ""
 
-#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:103
+#: woocommerce/cart/cart.php:32
+#: woocommerce/cart/cart.php:103
 #: woocommerce/global/quantity-input.php:28
 msgid "Quantity"
 msgstr ""
 
-#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:125
+#: woocommerce/cart/cart.php:33
+#: woocommerce/cart/cart.php:125
 msgid "Subtotal"
 msgstr ""
 
-#: woocommerce/cart/cart.php:56 woocommerce/cart/mini-cart.php:47
+#: woocommerce/cart/cart.php:56
+#: woocommerce/cart/mini-cart.php:47
 msgid "Remove this item"
 msgstr ""
 
 #: woocommerce/cart/cart.php:92
-msgid "Available on backorder"
+msgid ""
+"Available on backorder"
 msgstr ""
 
 #: woocommerce/cart/cart.php:143
 msgid "Coupon:"
 msgstr ""
 
-#: woocommerce/cart/cart.php:143 woocommerce/checkout/form-coupon.php:34
+#: woocommerce/cart/cart.php:143
+#: woocommerce/checkout/form-coupon.php:34
 msgid "Coupon code"
 msgstr ""
 
-#: woocommerce/cart/cart.php:143 woocommerce/checkout/form-coupon.php:38
+#: woocommerce/cart/cart.php:143
+#: woocommerce/checkout/form-coupon.php:38
 msgid "Apply coupon"
 msgstr ""
 
@@ -4565,7 +5298,8 @@ msgid "Update cart"
 msgstr ""
 
 #: woocommerce/cart/mini-cart.php:92
-msgid "No products in the cart."
+msgid ""
+"No products in the cart."
 msgstr ""
 
 #: woocommerce/cart/proceed-to-checkout-button.php:26
@@ -4573,7 +5307,9 @@ msgid "Proceed to checkout"
 msgstr ""
 
 #: woocommerce/checkout/form-checkout.php:26
-msgid "You must be logged in to checkout."
+msgid ""
+"You must be logged in to "
+"checkout."
 msgstr ""
 
 #: woocommerce/checkout/form-checkout.php:52
@@ -4585,11 +5321,16 @@ msgid "Have a coupon?"
 msgstr ""
 
 #: woocommerce/checkout/form-coupon.php:26
-msgid "Click here to enter your code"
+msgid ""
+"Click here to enter your "
+"code"
 msgstr ""
 
 #: woocommerce/checkout/form-coupon.php:31
-msgid "If you have a coupon code, please apply it below."
+msgid ""
+"If you have a coupon "
+"code, please apply it "
+"below."
 msgstr ""
 
 #: woocommerce/checkout/form-pay.php:28
@@ -4602,28 +5343,49 @@ msgstr ""
 
 #: woocommerce/checkout/form-pay.php:79
 msgid ""
-"Sorry, it seems that there are no available payment methods for your "
-"location. Please contact us if you require assistance or wish to make "
-"alternate arrangements."
-msgstr ""
-
-#: woocommerce/checkout/payment.php:33
-msgid ""
-"Sorry, it seems that there are no available payment methods for your state. "
-"Please contact us if you require assistance or wish to make alternate "
+"Sorry, it seems that "
+"there are no available "
+"payment methods for your "
+"location. Please contact "
+"us if you require "
+"assistance or wish to "
+"make alternate "
 "arrangements."
 msgstr ""
 
 #: woocommerce/checkout/payment.php:33
-msgid "Please fill in your details above to see available payment methods."
+msgid ""
+"Sorry, it seems that "
+"there are no available "
+"payment methods for your "
+"state. Please contact us "
+"if you require "
+"assistance or wish to "
+"make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:33
+msgid ""
+"Please fill in your "
+"details above to see "
+"available payment "
+"methods."
 msgstr ""
 
 #: woocommerce/checkout/payment.php:42
 #, php-format
 msgid ""
-"Since your browser does not support JavaScript, or it is disabled, please "
-"ensure you click the %1$sUpdate Totals%2$s button before placing your order. "
-"You may be charged more than the amount stated above if you fail to do so."
+"Since your browser does "
+"not support JavaScript, "
+"or it is disabled, "
+"please ensure you click "
+"the %1$sUpdate Totals"
+"%2$s button before "
+"placing your order. You "
+"may be charged more than "
+"the amount stated above "
+"if you fail to do so."
 msgstr ""
 
 #: woocommerce/checkout/payment.php:44
@@ -4635,15 +5397,18 @@ msgstr ""
 msgid "Username or email"
 msgstr ""
 
-#: woocommerce/global/form-login.php:46 woocommerce/myaccount/form-login.php:50
+#: woocommerce/global/form-login.php:46
+#: woocommerce/myaccount/form-login.php:50
 msgid "Remember me"
 msgstr ""
 
-#: woocommerce/global/form-login.php:50 woocommerce/myaccount/form-login.php:31
+#: woocommerce/global/form-login.php:50
+#: woocommerce/myaccount/form-login.php:31
 msgid "Login"
 msgstr ""
 
-#: woocommerce/global/form-login.php:54 woocommerce/myaccount/form-login.php:57
+#: woocommerce/global/form-login.php:54
+#: woocommerce/myaccount/form-login.php:57
 msgid "Lost your password?"
 msgstr ""
 
@@ -4653,7 +5418,9 @@ msgid "%s quantity"
 msgstr ""
 
 #: woocommerce/global/quantity-input.php:41
-msgctxt "Product quantity input tooltip"
+msgctxt ""
+"Product quantity input "
+"tooltip"
 msgid "Qty"
 msgstr ""
 
@@ -4666,7 +5433,9 @@ msgid "Go shop"
 msgstr ""
 
 #: woocommerce/myaccount/downloads.php:43
-msgid "No downloads available yet."
+msgid ""
+"No downloads available "
+"yet."
 msgstr ""
 
 #: woocommerce/myaccount/form-edit-account.php:27
@@ -4683,8 +5452,10 @@ msgstr ""
 
 #: woocommerce/myaccount/form-edit-account.php:38
 msgid ""
-"This will be how your name will be displayed in the account section and in "
-"reviews"
+"This will be how your "
+"name will be displayed "
+"in the account section "
+"and in reviews"
 msgstr ""
 
 #: woocommerce/myaccount/form-edit-account.php:43
@@ -4697,15 +5468,20 @@ msgid "Password change"
 msgstr ""
 
 #: woocommerce/myaccount/form-edit-account.php:51
-msgid "Current password (leave blank to leave unchanged)"
+msgid ""
+"Current password (leave "
+"blank to leave unchanged)"
 msgstr ""
 
 #: woocommerce/myaccount/form-edit-account.php:55
-msgid "New password (leave blank to leave unchanged)"
+msgid ""
+"New password (leave "
+"blank to leave unchanged)"
 msgstr ""
 
 #: woocommerce/myaccount/form-edit-account.php:59
-msgid "Confirm new password"
+msgid ""
+"Confirm new password"
 msgstr ""
 
 #: woocommerce/myaccount/form-edit-account.php:69
@@ -4728,7 +5504,8 @@ msgid "Save address"
 msgstr ""
 
 #: woocommerce/myaccount/form-login.php:38
-msgid "Username or email address"
+msgid ""
+"Username or email address"
 msgstr ""
 
 #: woocommerce/myaccount/form-login.php:53
@@ -4740,13 +5517,19 @@ msgid "Username"
 msgstr ""
 
 #: woocommerce/myaccount/form-login.php:100
-msgid "A password will be sent to your email address."
+msgid ""
+"A password will be sent "
+"to your email address."
 msgstr ""
 
 #: woocommerce/myaccount/form-lost-password.php:25
 msgid ""
-"Lost your password? Please enter your username or email address. You will "
-"receive a link to create a new password via email."
+"Lost your password? "
+"Please enter your "
+"username or email "
+"address. You will "
+"receive a link to create "
+"a new password via email."
 msgstr ""
 
 #: woocommerce/myaccount/form-lost-password.php:38
@@ -4754,7 +5537,9 @@ msgid "Reset password"
 msgstr ""
 
 #: woocommerce/myaccount/form-reset-password.php:25
-msgid "Enter a new password below."
+msgid ""
+"Enter a new password "
+"below."
 msgstr ""
 
 #: woocommerce/myaccount/form-reset-password.php:28
@@ -4762,7 +5547,8 @@ msgid "New password"
 msgstr ""
 
 #: woocommerce/myaccount/form-reset-password.php:32
-msgid "Re-enter new password"
+msgid ""
+"Re-enter new password"
 msgstr ""
 
 #: woocommerce/myaccount/form-reset-password.php:45
@@ -4770,11 +5556,16 @@ msgid "Save"
 msgstr ""
 
 #: woocommerce/myaccount/my-address.php:49
-msgid "The following addresses will be used on the checkout page by default."
+msgid ""
+"The following addresses "
+"will be used on the "
+"checkout page by default."
 msgstr ""
 
 #: woocommerce/myaccount/my-address.php:66
-msgid "You have not set up this type of address yet."
+msgid ""
+"You have not set up this "
+"type of address yet."
 msgstr ""
 
 #: woocommerce/myaccount/my-orders.php:17
@@ -4789,15 +5580,19 @@ msgstr ""
 msgid "Recent orders"
 msgstr ""
 
-#: woocommerce/myaccount/my-orders.php:65 woocommerce/myaccount/orders.php:49
-msgctxt "hash before order number"
+#: woocommerce/myaccount/my-orders.php:65
+#: woocommerce/myaccount/orders.php:49
+msgctxt ""
+"hash before order number"
 msgid "#"
 msgstr ""
 
-#: woocommerce/myaccount/my-orders.php:77 woocommerce/myaccount/orders.php:61
+#: woocommerce/myaccount/my-orders.php:77
+#: woocommerce/myaccount/orders.php:61
 #, php-format
 msgid "%1$s for %2$s item"
-msgid_plural "%1$s for %2$s items"
+msgid_plural ""
+"%1$s for %2$s items"
 msgstr[0] ""
 msgstr[1] ""
 
@@ -4806,7 +5601,9 @@ msgid "Go to the shop"
 msgstr ""
 
 #: woocommerce/myaccount/orders.php:103
-msgid "No order has been made yet."
+msgid ""
+"No order has been made "
+"yet."
 msgstr ""
 
 #: woocommerce/product-searchform.php:26
@@ -4814,7 +5611,8 @@ msgid "Search for:"
 msgstr ""
 
 #: woocommerce/product-searchform.php:27
-msgid "Search products&hellip;"
+msgid ""
+"Search products&hellip;"
 msgstr ""
 
 #: woocommerce/product-searchform.php:30

@@ -12,9 +12,9 @@ defined('ABSPATH') || exit;
         <img id="small-cats-img" src="<?php echo $image['url']; ?>" alt="">
     </div>
     <div class="d-inline-block text-left">
-        <p class="card-text"><strong><?php _e('Located at:')?></strong> <?php echo get_the_term_list($post->ID, 'city') ?></p>
-        <p class="card-text"><strong><?php _e('Gender:')?></strong> <?php echo get_the_term_list($post->ID, 'gender') ?></p>
-        <p class="card-text"><strong><?php _e('Adopted:')?></strong> <?php the_field('cat_adopted') ?>
+        <p class="card-text"><strong><?php _e('Located at:', 'kks')?></strong> <?php echo get_the_term_list($post->ID, 'city') ?></p>
+        <p class="card-text"><strong><?php _e('Gender:', 'kks')?></strong> <?php echo get_the_term_list($post->ID, 'gender') ?></p>
+        <p class="card-text"><strong><?php _e('Adopted:', 'kks')?></strong> <?php the_field('cat_adopted') ?>
     </div>
     </div>
 </div>

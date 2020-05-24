@@ -27,7 +27,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 					<div class="site-info">
 
-					<p class="font-italic">All rights reserved by Bennvido ©2020 </p>
+					<p class="font-italic"><?php _e('All rights reserved by', 'kks') ?> Bennvido ©2020 </p>
 
 					</div><!-- .site-info -->
 

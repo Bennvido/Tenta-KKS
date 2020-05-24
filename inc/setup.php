@@ -32,6 +32,8 @@ if ( ! function_exists( 'understrap_setup' ) ) {
 		 */
 		load_theme_textdomain( 'understrap', get_template_directory() . '/languages' );
 
+		load_theme_textdomain( 'kks', get_template_directory() . '/languages' );
+
 		// Add default posts and comments RSS feed links to head.
 		add_theme_support( 'automatic-feed-links' );
 

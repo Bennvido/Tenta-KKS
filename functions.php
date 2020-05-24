@@ -35,6 +35,8 @@ $understrap_includes = array(
 	'/deprecated.php',                      // Load deprecated functions.
 );
 
+
+
 foreach ( $understrap_includes as $file ) {
 	require_once get_template_directory() . '/inc' . $file;
 }

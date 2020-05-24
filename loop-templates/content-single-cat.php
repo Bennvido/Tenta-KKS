@@ -11,15 +11,15 @@
     </div>
     <div class="col-lg-4">
       <div class="card-body">
-        <p class="card-title"><strong><?php _e('Name:')?></strong> <?php the_field('cat_name') ?></p>
-        <p class="card-text"><strong><?php _e('Birthdate:')?></strong> <?php the_field('cat_age') ?></p>
-        <p class="card-text"><strong><?php _e('Color:')?></strong> <?php the_field('cat_color') ?></p>
-        <p class="card-text"><strong><?php _e('Weight:')?></strong> <?php the_field('cat_weight') ?>kg</p>
-        <p class="card-text"><strong><?php _e('Gender:')?></strong> <?php echo get_the_term_list( $post->ID, 'gender') ?></p>
-        <p class="card-text"><strong><?php _e('Located at:')?></strong> <?php echo get_the_term_list( $post->ID, 'city') ?></p>
-        <p class="card-text"><strong><?php _e('Adopted:')?></strong> <?php the_field('cat_adopted') ?> <?php if(get_field('cat_date_adopted')):?> <?php _e('at')?> <?php endif; ?> <?php the_field('cat_date_adopted') ?> </p>
-        <p class="card-text"><strong><?php _e('Description:')?></strong> <?php the_field('cat_description') ?></p>
-        <p class="card-text"><small class="text-muted"> <?php printf( __( 'Updated at: %1$s at  %2$s', 'textdomain' ),
+        <p class="card-title"><strong><?php _e('Name:', 'kks')?></strong> <?php the_field('cat_name') ?></p>
+        <p class="card-text"><strong><?php _e('Birthdate:', 'kks')?></strong> <?php the_field('cat_age') ?></p>
+        <p class="card-text"><strong><?php _e('Color:', 'kks')?></strong> <?php the_field('cat_color') ?></p>
+        <p class="card-text"><strong><?php _e('Weight:', 'kks')?></strong> <?php the_field('cat_weight') ?>kg</p>
+        <p class="card-text"><strong><?php _e('Gender:', 'kks')?></strong> <?php echo get_the_term_list( $post->ID, 'gender') ?></p>
+        <p class="card-text"><strong><?php _e('Located at:', 'kks')?></strong> <?php echo get_the_term_list( $post->ID, 'city') ?></p>
+        <p class="card-text"><strong><?php _e('Adopted:', 'kks')?></strong> <?php the_field('cat_adopted') ?> <?php if(get_field('cat_date_adopted')):?> <?php _e('at', 'kks')?> <?php endif; ?> <?php the_field('cat_date_adopted') ?> </p>
+        <p class="card-text"><strong><?php _e('Description:', 'kks')?></strong> <?php the_field('cat_description') ?></p>
+        <p class="card-text"><small class="text-muted"> <?php printf( __( 'Updated at: %1$s at  %2$s', 'kks' ),
     get_the_modified_date( 'F j, Y' ),
     get_the_modified_date( 'G:i' )
 ); ?></small></p>
