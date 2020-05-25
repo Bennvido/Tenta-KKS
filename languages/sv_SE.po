@@ -3610,11 +3610,11 @@ msgstr ""
 
 #: inc/custom-post-cats.php:10 inc/custom-post-cats.php:45
 msgid "cats"
-msgstr ""
+msgstr "Katter"
 
 #: inc/custom-post-cats.php:11 inc/custom-post-cats.php:35
 msgid "cat"
-msgstr ""
+msgstr "Katt"
 
 #: inc/custom-post-cats.php:12 inc/custom-post-cats.php:15
 msgid "Add new cat"
@@ -3626,19 +3626,19 @@ msgstr "Alla katter"
 
 #: inc/custom-post-cats.php:16
 msgid "Edit cat"
-msgstr ""
+msgstr "Redigera Katt"
 
 #: inc/custom-post-cats.php:17
 msgid "New cat"
-msgstr ""
+msgstr "Ny Katt"
 
 #: inc/custom-post-cats.php:18
 msgid "View cat"
-msgstr ""
+msgstr "Visa Katt"
 
 #: inc/custom-post-cats.php:19
 msgid "View cats"
-msgstr ""
+msgstr "Visa Katter"
 
 #: inc/custom-post-cats.php:20
 msgid "Search cats"
