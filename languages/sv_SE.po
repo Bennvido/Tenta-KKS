@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Blank WordPress Pot v1.0.0\n"
 "Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
-"POT-Creation-Date: 2020-05-24 23:44+0200\n"
+"POT-Creation-Date: 2020-05-25 13:45+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: Your Team <translations@example.com>\n"
@@ -337,6 +337,7 @@ msgstr "Ja"
 #: inc/acf/includes/fields/class-acf-field-true_false.php:80
 #: inc/acf/includes/fields/class-acf-field-true_false.php:174
 #: inc/acf/pro/admin/views/html-settings-updates.php:99
+#: inc/custom-fields-cats.php:102
 msgid "No"
 msgstr "Nej"
 
@@ -2352,7 +2353,7 @@ msgstr ""
 
 #: inc/acf/includes/fields/class-acf-field-page_link.php:177
 msgid "Archives"
-msgstr ""
+msgstr "Arkiv"
 
 #: inc/acf/includes/fields/class-acf-field-page_link.php:269
 #: inc/acf/includes/fields/class-acf-field-post_object.php:267
@@ -3562,7 +3563,7 @@ msgstr ""
 
 #: inc/custom-post-about.php:28
 msgid "About us archives"
-msgstr ""
+msgstr "Om oss arkiv"
 
 #: inc/custom-post-about.php:29
 msgid "Insert into About us"
@@ -3674,7 +3675,7 @@ msgstr ""
 
 #: inc/custom-post-cats.php:28
 msgid "cat archives"
-msgstr ""
+msgstr "Katt arkiv"
 
 #: inc/custom-post-cats.php:29
 msgid "Insert into cat"
@@ -3787,7 +3788,7 @@ msgstr ""
 
 #: inc/custom-post-faqs.php:28
 msgid "FAQ archives"
-msgstr ""
+msgstr "FAQ arkiv"
 
 #: inc/custom-post-faqs.php:29
 msgid "Insert into FAQ"
@@ -3840,7 +3841,7 @@ msgstr "Städer"
 
 #: inc/custom-taxonomy-citys.php:11
 msgid "City"
-msgstr ""
+msgstr "Stad"
 
 #: inc/custom-taxonomy-citys.php:13
 msgid "All Citys"
@@ -3909,6 +3910,10 @@ msgstr ""
 #: inc/custom-taxonomy-citys.php:29
 msgid "Citys list"
 msgstr ""
+
+#: inc/custom-taxonomy-citys.php:42
+msgid "city"
+msgstr "stad"
 
 #: inc/custom-taxonomy-genders.php:10 inc/custom-taxonomy-genders.php:12
 #: inc/custom-taxonomy-genders.php:33
@@ -3986,6 +3991,10 @@ msgstr ""
 #: inc/custom-taxonomy-genders.php:29
 msgid "Genders list"
 msgstr ""
+
+#: inc/custom-taxonomy-genders.php:42
+msgid "gender"
+msgstr "kon"
 
 #: inc/customizer.php:42
 msgid "Theme Layout Settings"
@@ -4196,7 +4205,7 @@ msgstr ""
 #: loop-templates/content-single-cat.php:22
 #, php-format
 msgid "Updated at: %1$s at  %2$s"
-msgstr "Uppdaterad %1$s  %2$s"
+msgstr "Uppdaterad %1$s %2$s"
 
 #: loop-templates/content-cats.php:15 loop-templates/content-single-cat.php:19
 msgid "Located at:"

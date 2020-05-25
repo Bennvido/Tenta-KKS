@@ -39,7 +39,7 @@ function cptui_register_my_taxes_city() {
 		"show_in_menu" => true,
 		"show_in_nav_menus" => true,
 		"query_var" => true,
-		"rewrite" => [ 'slug' => 'city', 'with_front' => true,  'hierarchical' => true, ],
+		"rewrite" => [ 'slug' => __('city', 'kks'), 'with_front' => true,  'hierarchical' => true, ],
 		"show_admin_column" => true,
 		"show_in_rest" => true,
 		"rest_base" => "city",

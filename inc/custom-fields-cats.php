@@ -99,7 +99,7 @@ if( function_exists('acf_add_local_field_group') ):
                 ),
                 'choices' => array(
                     'Yes' => __( 'Yes', 'kks' ),
-                    'No' => 'No',
+                    'No' => __('No', 'kks'),
                 ),
                 'default_value' => 'No',
                 'allow_null' => 0,
