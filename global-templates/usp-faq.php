@@ -10,7 +10,10 @@ $faqs = new WP_Query([
 ]);
 
 ?>
-
+<?php if ($faqs->have_posts()) : ?>
+    <hr>
+    <h3 class="text-center"><?php _e('How do adopt a cat', 'kks') ?></h3>
+<?php endif; ?>
 <div class="row">
     <?php while ($faqs->have_posts()) : $faqs->the_post(); ?>
         <?php get_template_part('loop-templates/content', 'usp-faq'); ?>

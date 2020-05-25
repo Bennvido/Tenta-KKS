@@ -47,6 +47,7 @@ $catsadopted = new WP_Query([
 	)
 ]);
 ?>
+
 <?php get_template_part('global-templates/hero-frontpage'); ?>
 
 <?php get_template_part('global-templates/hero'); ?>
@@ -54,12 +55,16 @@ $catsadopted = new WP_Query([
 <div class="wrapper" id="page-wrapper">
 
 	<div class="<?php echo esc_attr($container); ?>" id="content" tabindex="-1">
+	
 		<?php get_template_part('global-templates/about-us'); ?>
-		<hr>
-		<h3 class="text-center"><?php _e('How do adopt a cat', 'kks') ?></h3>
+
 		<?php get_template_part('global-templates/usp-faq'); ?>
-		<hr>
-		<h3 class="text-center"><?php _e('Latest arrived cats', 'kks') ?></h3>
+
+		<?php if ($cats->have_posts()) : ?>
+			<hr>
+			<h3 class="text-center"><?php _e('Latest arrived cats', 'kks') ?></h3>
+		<?php endif; ?>
+
 		<div class="row">
 			<?php while ($cats->have_posts()) : $cats->the_post(); ?>
 
@@ -67,15 +72,19 @@ $catsadopted = new WP_Query([
 
 			<?php endwhile; ?>
 		</div><!-- .row -->
-		<hr>
-		<h3 class="text-center"><?php _e('Latest adopted cats', 'kks') ?></h3>
+
+		<?php if ($catsadopted->have_posts()) : ?>
+			<hr>
+			<h3 class="text-center"><?php _e('Latest adopted cats', 'kks') ?></h3>
+		<?php endif; ?>
+
 		<div class="row">
 			<?php while ($catsadopted->have_posts()) : $catsadopted->the_post(); ?>
 
 				<?php get_template_part('loop-templates/content', 'cats'); ?>
 
 			<?php endwhile; ?>
-		</div>
+		</div><!-- .row -->
 
 	</div><!-- #content -->
 
