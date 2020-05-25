@@ -1,7 +1,7 @@
 <?php
     defined('ABSPATH') || exit;
 ?>
-<div class="card-body col-8 m-auto" style="box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);">
+<div class="card-body col-12 col-md-8 col-lg-8 m-auto" style="box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);">
     <a id="cats-link-<?php the_ID(); ?>" href="<?php the_permalink(); ?>"><h1 class="text-center"><?php the_field('cat_name'); ?></h1></a>
     <h2 class="text-center"><?php the_title(); ?></h2>
     <p><?php the_content(); ?></p>
