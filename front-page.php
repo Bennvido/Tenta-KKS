@@ -56,10 +56,10 @@ $catsadopted = new WP_Query([
 	<div class="<?php echo esc_attr($container); ?>" id="content" tabindex="-1">
 		<?php get_template_part('global-templates/about-us'); ?>
 		<hr>
-		<h3 class="text-center"><?php _e('How do adopt a cat', 'kks')?></h3>
+		<h3 class="text-center"><?php _e('How do adopt a cat', 'kks') ?></h3>
 		<?php get_template_part('global-templates/usp-faq'); ?>
 		<hr>
-		<h3 class="text-center"><?php _e('Latest arrived cats', 'kks')?></h3>
+		<h3 class="text-center"><?php _e('Latest arrived cats', 'kks') ?></h3>
 		<div class="row">
 			<?php while ($cats->have_posts()) : $cats->the_post(); ?>
 
@@ -68,7 +68,7 @@ $catsadopted = new WP_Query([
 			<?php endwhile; ?>
 		</div><!-- .row -->
 		<hr>
-		<h3 class="text-center"><?php _e('Latest adopted cats', 'kks')?></h3>
+		<h3 class="text-center"><?php _e('Latest adopted cats', 'kks') ?></h3>
 		<div class="row">
 			<?php while ($catsadopted->have_posts()) : $catsadopted->the_post(); ?>
 

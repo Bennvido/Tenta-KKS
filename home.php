@@ -31,7 +31,7 @@ $args = array(
 	'posts_per_page' => '4',
 	'paged' => 1,
 	'orderby' => 'modified',
-    'order' => 'DSC',
+	'order' => 'DSC',
 );
 $blog_posts = new WP_Query($args);
 ?>
@@ -84,12 +84,12 @@ $blog_posts = new WP_Query($args);
 			};
 
 			$.post(blog.ajaxurl, data, function(response) {
-            if($.trim(response) != '') {
-                $('.my-posts').append(response);
-               page++;
-            } else {
-                $('.loadmore').hide();
-            }
+				if ($.trim(response) != '') {
+					$('.my-posts').append(response);
+					page++;
+				} else {
+					$('.loadmore').hide();
+				}
 			});
 		});
 	});
