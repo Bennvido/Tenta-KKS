@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Blank WordPress Pot v1.0.0\n"
 "Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
-"POT-Creation-Date: 2020-05-25 13:45+0200\n"
+"POT-Creation-Date: 2020-05-26 12:08+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: Your Team <translations@example.com>\n"
@@ -97,21 +97,21 @@ msgstr ""
 msgid "Newer Comments &rarr;"
 msgstr ""
 
-#: footer.php:30
+#: footer.php:31
 msgid "All rights reserved by"
 msgstr "Copyright"
 
-#: front-page.php:59
-msgid "How do adopt a cat"
-msgstr "Hur man adopterar en katt"
-
-#: front-page.php:62
+#: front-page.php:65
 msgid "Latest arrived cats"
 msgstr "Senast inkomna katter"
 
-#: front-page.php:71
+#: front-page.php:78
 msgid "Latest adopted cats"
 msgstr "Senast adopterade katter"
+
+#: global-templates/usp-faq.php:15
+msgid "How do adopt a cat"
+msgstr "Hur man adopterar en katt"
 
 #: header.php:31 node_modules/undescores-for-npm/header.php:24
 msgid "Skip to content"
@@ -3610,8 +3610,9 @@ msgid "About us updated."
 msgstr ""
 
 #: inc/custom-post-cats.php:10 inc/custom-post-cats.php:45
+#: inc/custom-post-cats.php:62
 msgid "cats"
-msgstr "Katter"
+msgstr "katter"
 
 #: inc/custom-post-cats.php:11 inc/custom-post-cats.php:35
 msgid "cat"
@@ -4201,21 +4202,21 @@ msgstr ""
 msgid "Full sized footer widget with dynamic grid"
 msgstr ""
 
-#: loop-templates/content-blog-posts.php:8
-#: loop-templates/content-single-cat.php:22
+#: loop-templates/content-blog-posts.php:11
+#: loop-templates/content-single-cat.php:23
 #, php-format
 msgid "Updated at: %1$s at  %2$s"
 msgstr "Uppdaterad %1$s %2$s"
 
-#: loop-templates/content-cats.php:15 loop-templates/content-single-cat.php:19
+#: loop-templates/content-cats.php:17 loop-templates/content-single-cat.php:19
 msgid "Located at:"
 msgstr "Finns i:"
 
-#: loop-templates/content-cats.php:16 loop-templates/content-single-cat.php:18
+#: loop-templates/content-cats.php:18 loop-templates/content-single-cat.php:18
 msgid "Gender:"
 msgstr "Kön:"
 
-#: loop-templates/content-cats.php:17 loop-templates/content-single-cat.php:20
+#: loop-templates/content-cats.php:19 loop-templates/content-single-cat.php:20
 msgid "Adopted:"
 msgstr "Adopterad:"
 
